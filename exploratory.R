@@ -11,14 +11,25 @@ sales$Type <- as.factor(sales$Type)
 summary(sales)
 summary(sales$Position)
 plot(sales$Position)
+plot(sales$DateTime, sales$ETH)
 summary(sales$ETH)
 
-saleBP <- ggplot(sales, aes(x = Team, y = ETH )) +
-  geom_boxplot() +
+saleBP <- ggplot(sales, aes(x = Team, y = ETH)) +
+  geom_boxplot(fill = "dodger blue") +
   theme_tufte() +
-  stat_summary(fun.y=mean, geom="point", shape=23, size=4) +
+  stat_summary(fun.y=mean, geom="point", shape=3, size=2) +
   coord_flip()
 saleBP 
+
+
+
+saleBPbreakdown <- ggplot(sales, aes(x = Team, y = ETH, fill = Type)) +
+  geom_boxplot() +
+  theme_tufte() +
+  stat_summary(fun.y=mean, geom="point", shape=3, size=2) +
+  scale_fill_manual(values = c("red", "yellow", "purple", "dodger blue", "dark grey")) +
+  coord_flip()
+saleBPbreakdown 
 
 bronze <- sales %>% filter(Type == "Bronze")
 summary(bronze$ETH)
