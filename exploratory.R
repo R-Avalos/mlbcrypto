@@ -13,6 +13,13 @@ summary(sales$Position)
 plot(sales$Position)
 summary(sales$ETH)
 
+saleBP <- ggplot(sales, aes(x = Team, y = ETH )) +
+  geom_boxplot() +
+  theme_tufte() +
+  stat_summary(fun.y=mean, geom="point", shape=23, size=4) +
+  coord_flip()
+saleBP 
+
 bronze <- sales %>% filter(Type == "Bronze")
 summary(bronze$ETH)
 plot(bronze$DateTime, bronze$ETH)
@@ -32,9 +39,9 @@ teamPlot <- ggplot(teamAVG, aes(x = reorder(Team, Mean), y = Mean)) +
   theme_tufte() +
   theme(axis.title.y = element_blank(),
         axis.ticks.length = unit(0, "lines")) +
-  ylab("Mean Player ETH Cost") +
+  ylab("Mean Player Cost, ETH") +
   coord_flip()
-teamPlot
+teamPlot 
   
 hist(sales$ETH, bins = seq(min(0), max(sales$ETH)))
 max(sales$ETH)
