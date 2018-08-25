@@ -19,7 +19,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 18,Enyel De Los Santos,1510,0.00505,P,Phillies,8/16/18,7:32:28 PM,Standard,https://mlbcryptobaseball.com/asset/1510,Windup,Standard,#N/A,Double Play,8/16/2018 19:32:28,0.00505,#N/A,#N/A,#N/A,#N/A
 19,Anthony Rendon,1548,0.03334,3B,Nationals,8/16/18,7:44:11 PM,Standard,https://mlbcryptobaseball.com/asset/1548,Crow Hop,Midnight,#N/A,Double Play,8/16/2018 19:44:11,0.03334,#N/A,#N/A,#N/A,#N/A
 20,Carlos Gomez,1527,0.01407,RF,Rays,8/16/18,7:56:02 PM,Standard,https://mlbcryptobaseball.com/asset/1527,Stretch and Fire,#N/A,Silver,100 mph Pitch,8/16/2018 19:56:02,0.01407,#N/A,#N/A,#N/A,#N/A
-21,Justin TUrner,1814,0.24964,3B ,Dodgers,8/16/18,8:07:59 PM,Standard,https://mlbcryptobaseball.com/asset/1814,Sidearm,Midnight,#N/A,No Hitter,8/16/2018 20:07:59,0.24964,#N/A,#N/A,#N/A,#N/A
+21,Justin Turner,1814,0.24964,3B ,Dodgers,8/16/18,8:07:59 PM,Standard,https://mlbcryptobaseball.com/asset/1814,Sidearm,Midnight,#N/A,No Hitter,8/16/2018 20:07:59,0.24964,#N/A,#N/A,#N/A,#N/A
 22,Kris Bryant,1815,0.24964,3B,Cubs,8/16/18,8:20:04 PM,Gold,https://mlbcryptobaseball.com/asset/1815,Follow Through,#N/A,Wood Bat w/ Walnut Finish,5 Run Game,8/16/2018 20:20:04,#N/A,#N/A,#N/A,0.24964,#N/A
 23,Eddie Rosario,1552,0.03036,LF,Twins,8/16/18,8:32:16 PM,Standard,https://mlbcryptobaseball.com/asset/1552,Stretch and Fire,#N/A,Wood Bat w/ Grip,Immaculate Inning,8/16/2018 20:32:16,0.03036,#N/A,#N/A,#N/A,#N/A
 24,Dustin Fowler,1773,0.18479,CF,A's,8/16/18,8:44:35 PM,Bronze,https://mlbcryptobaseball.com/asset/1773,Groundball,Midnight,#N/A,Hit for the Cycle,8/16/2018 20:44:35,#N/A,0.18479,#N/A,#N/A,#N/A
@@ -1153,3 +1153,286 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1152,Alex Bregman,2736,1.49000,3B,Astros,8/23/2018,7:17:20 PM,Silver,https://mlbcryptobaseball.com/asset/2736,,,,,8/23/2018 19:17:20,#N/A,#N/A,1.49000,#N/A,#N/A
 1153,Adam Jones,3145,0.14747,CF,Orioles,8/23/2018,7:24:02 PM,Standard,https://mlbcryptobaseball.com/asset/3145,,,,,8/23/2018 19:24:02,0.14747,#N/A,#N/A,#N/A,#N/A
 1154,Matt Belisle,2685,0.08306,P,Twins,8/23/2018,7:35:04 PM,Standard,https://mlbcryptobaseball.com/asset/2685,,,,,8/23/2018 19:35:04,0.08306,#N/A,#N/A,#N/A,#N/A
+1155,Madison Bumgarner,1422,0.80000,P,Giants,8/23/2018,7:49:54 PM,Standard,https://mlbcryptobaseball.com/asset/1422,,,,,8/23/2018 19:49:54,0.80000,#N/A,#N/A,#N/A,#N/A
+1156,Arodys Vizcaino,3178,0.64403,P,Braves,8/23/2018,7:54:42 PM,Silver,https://mlbcryptobaseball.com/asset/3178,,,,,8/23/2018 19:54:42,#N/A,#N/A,0.64403,#N/A,#N/A
+1157,Jeff McNeil,3000,0.10314,2B,Mets,8/23/2018,8:06:05 PM,Standard,https://mlbcryptobaseball.com/asset/3000,,,,,8/23/2018 20:06:05,0.10314,#N/A,#N/A,#N/A,#N/A
+1158,Ronald Guzman,3142,0.13532,1B,Rangers,8/23/2018,8:09:37 PM,Standard,https://mlbcryptobaseball.com/asset/3142,,,,,8/23/2018 20:09:37,0.13532,#N/A,#N/A,#N/A,#N/A
+1159,Gregory Polanco,3477,1.36877,RF,Pirates,8/23/2018,8:25:19 PM,Standard,https://mlbcryptobaseball.com/asset/3477,,,,,8/23/2018 20:25:19,1.36877,#N/A,#N/A,#N/A,#N/A
+1160,Casey Sadler,2697,0.20000,P,Pirates,8/23/2018,8:25:36 PM,Silver,https://mlbcryptobaseball.com/asset/2697,,,,,8/23/2018 20:25:36,#N/A,#N/A,0.20000,#N/A,#N/A
+1161,Noah Syndergaard,2550,0.19436,P,Mets,8/23/2018,8:35:09 PM,Standard,https://mlbcryptobaseball.com/asset/2550,,,,,8/23/2018 20:35:09,0.19436,#N/A,#N/A,#N/A,#N/A
+1162,Alex Claudio,1984,0.50000,P,Rangers,8/23/2018,8:35:25 PM,Silver,https://mlbcryptobaseball.com/asset/1984,,,,,8/23/2018 20:35:25,#N/A,#N/A,0.50000,#N/A,#N/A
+1163,Logan Forsythe,3375,0.56685,2B,Twins,8/24/2018,8:00:25 AM,Standard,https://mlbcryptobaseball.com/asset/3375,,,,,8/24/2018 8:00:25,0.56685,#N/A,#N/A,#N/A,#N/A
+1164,Nolan Arenado,3194,0.72891,3B,Rockies,8/24/2018,8:00:43 AM,Bronze,https://mlbcryptobaseball.com/asset/3194,,,,,8/24/2018 8:00:43,#N/A,0.72891,#N/A,#N/A,#N/A
+1165,James Paxton,3201,0.15028,P,Mariners,8/24/2018,8:00:56 AM,Standard,https://mlbcryptobaseball.com/asset/3201,,,,,8/24/2018 8:00:56,0.15028,#N/A,#N/A,#N/A,#N/A
+1166,Salvador Perez,3169,0.13816,C,Royals,8/24/2018,8:01:10 AM,Standard,https://mlbcryptobaseball.com/asset/3169,,,,,8/24/2018 8:01:10,0.13816,#N/A,#N/A,#N/A,#N/A
+1167,Jose Pirela,3149,0.12994,2B,Padres,8/24/2018,8:01:27 AM,Standard,https://mlbcryptobaseball.com/asset/3149,,,,,8/24/2018 8:01:27,0.12994,#N/A,#N/A,#N/A,#N/A
+1168,Jed Lowrie,3176,0.13414,2B,A's,8/24/2018,8:06:32 AM,Standard,https://mlbcryptobaseball.com/asset/3176,,,,,8/24/2018 8:06:32,0.13414,#N/A,#N/A,#N/A,#N/A
+1169,Miguel Sano,3165,0.12329,3B,Twins,8/24/2018,8:15:48 AM,Standard,https://mlbcryptobaseball.com/asset/3165,,,,,8/24/2018 8:15:48,0.12329,#N/A,#N/A,#N/A,#N/A
+1170,Nolan Arenado,3254,0.34688,3B,Rockies,8/24/2018,8:20:29 AM,Standard,https://mlbcryptobaseball.com/asset/3254,,,,,8/24/2018 8:20:29,0.34688,#N/A,#N/A,#N/A,#N/A
+1171,Noah Syndergaard,3240,0.18933,P,Mets,8/24/2018,8:23:29 AM,Standard,https://mlbcryptobaseball.com/asset/3240,,,,,8/24/2018 8:23:29,0.18933,#N/A,#N/A,#N/A,#N/A
+1172,Scooter Gennett,899,0.38000,2B,Reds,8/24/2018,8:24:38 AM,Bronze,https://mlbcryptobaseball.com/asset/899,,,,,8/24/2018 8:24:38,#N/A,0.38000,#N/A,#N/A,#N/A
+1173,Chris Sale,3282,0.39621,P,Red Sox,8/24/2018,8:26:01 AM,Standard,https://mlbcryptobaseball.com/asset/3282,,,,,8/24/2018 8:26:01,0.39621,#N/A,#N/A,#N/A,#N/A
+1174,Giancarlo Stanton,3369,0.53191,LF,Yankees,8/24/2018,8:29:49 AM,Standard,https://mlbcryptobaseball.com/asset/3369,,,,,8/24/2018 8:29:49,0.53191,#N/A,#N/A,#N/A,#N/A
+1175,Ian Desmond,3224,0.13870,1B,Rockies,8/24/2018,8:30:08 AM,Standard,https://mlbcryptobaseball.com/asset/3224,,,,,8/24/2018 8:30:08,0.13870,#N/A,#N/A,#N/A,#N/A
+1176,Marcus Semien,486,0.36008,SS,A's,8/24/2018,8:30:37 AM,Standard,https://mlbcryptobaseball.com/asset/486,,,,,8/24/2018 8:30:37,0.36008,#N/A,#N/A,#N/A,#N/A
+1177,Yeonis Cespedes,3180,0.11605,LF,Mets,8/24/2018,8:34:29 AM,Standard,https://mlbcryptobaseball.com/asset/3180,,,,,8/24/2018 8:34:29,0.11605,#N/A,#N/A,#N/A,#N/A
+1178,Eric Hosmer,3239,0.18089,1B,Padres,8/24/2018,8:34:42 AM,Standard,https://mlbcryptobaseball.com/asset/3239,,,,,8/24/2018 8:34:42,0.18089,#N/A,#N/A,#N/A,#N/A
+1179,Freddy Galvis,3179,0.11586,SS,Padres,8/24/2018,8:34:56 AM,Standard,https://mlbcryptobaseball.com/asset/3179,,,,,8/24/2018 8:34:56,0.11586,#N/A,#N/A,#N/A,#N/A
+1180,Kolten Wong,3167,0.10664,2B,Cardinals,8/24/2018,8:40:33 AM,Standard,https://mlbcryptobaseball.com/asset/3167,,,,,8/24/2018 8:40:33,0.10664,#N/A,#N/A,#N/A,#N/A
+1181,Rafael Devers,3492,0.69386,3B,Red Sox,8/24/2018,8:44:27 AM,Standard,https://mlbcryptobaseball.com/asset/3492,,,,,8/24/2018 8:44:27,0.69386,#N/A,#N/A,#N/A,#N/A
+1182,Craig Kimbrel,3612,0.75098,P,Red Sox,8/24/2018,8:46:26 AM,Bronze,https://mlbcryptobaseball.com/asset/3612,,,,,8/24/2018 8:46:26,#N/A,0.75098,#N/A,#N/A,#N/A
+1183,Chad Pinder,576,0.27000,LF,A's,8/24/2018,8:48:06 AM,Standard,https://mlbcryptobaseball.com/asset/576,,,,,8/24/2018 8:48:06,0.27000,#N/A,#N/A,#N/A,#N/A
+1184,Cesar Hernandez,3333,0.43101,2B,Phillies,8/24/2018,8:49:41 AM,Standard,https://mlbcryptobaseball.com/asset/3333,,,,,8/24/2018 8:49:41,0.43101,#N/A,#N/A,#N/A,#N/A
+1185,Jorge Alfaro,3243,0.16692,C,Phillies,8/24/2018,8:51:14 AM,Standard,https://mlbcryptobaseball.com/asset/3243,,,,,8/24/2018 8:51:14,0.16692,#N/A,#N/A,#N/A,#N/A
+1186,Rhys Hoskins,2463,0.21000,LF,Phillies,8/24/2018,8:54:32 AM,Standard,https://mlbcryptobaseball.com/asset/2463,,,,,8/24/2018 8:54:32,0.21000,#N/A,#N/A,#N/A,#N/A
+1187,Carlos Santana,523,0.22902,1B,Phillies,8/24/2018,8:54:45 AM,Standard,https://mlbcryptobaseball.com/asset/523,,,,,8/24/2018 8:54:45,0.22902,#N/A,#N/A,#N/A,#N/A
+1188,Odubel Herrera,3063,0.24000,CF,Phillies,8/24/2018,8:54:55 AM,Standard,https://mlbcryptobaseball.com/asset/3063,,,,,8/24/2018 8:54:55,0.24000,#N/A,#N/A,#N/A,#N/A
+1189,Jorge Alfaro,3543,0.60248,C,Phillies,8/24/2018,8:55:39 AM,Bronze,https://mlbcryptobaseball.com/asset/3543,,,,,8/24/2018 8:55:39,#N/A,0.60248,#N/A,#N/A,#N/A
+1190,Yu Chang,3190,0.10229,SS,Indians,8/24/2018,8:58:31 AM,Standard,https://mlbcryptobaseball.com/asset/3190,,,,,8/24/2018 8:58:31,0.10229,#N/A,#N/A,#N/A,#N/A
+1191,Jake Bauers,3200,0.10534,1B,Rays,8/24/2018,9:00:24 AM,Standard,https://mlbcryptobaseball.com/asset/3200,,,,,8/24/2018 9:00:24,0.10534,#N/A,#N/A,#N/A,#N/A
+1192,Luke Weaver,3317,0.40916,P,Cardinals,8/24/2018,9:01:23 AM,Silver,https://mlbcryptobaseball.com/asset/3317,,,,,8/24/2018 9:01:23,#N/A,#N/A,0.40916,#N/A,#N/A
+1193,Scott Oberg,3494,0.67298,P,Rockies,8/24/2018,9:06:28 AM,Silver,https://mlbcryptobaseball.com/asset/3494,,,,,8/24/2018 9:06:28,#N/A,#N/A,0.67298,#N/A,#N/A
+1194,Mike Trout,3408,2.25000,CF,Angels,8/24/2018,9:06:40 AM,Silver,https://mlbcryptobaseball.com/asset/3408,,,,,8/24/2018 9:06:40,#N/A,#N/A,2.25000,#N/A,#N/A
+1195,Gerardo Parra,3434,0.57703,LF,Rockies,8/24/2018,9:07:35 AM,Bronze,https://mlbcryptobaseball.com/asset/3434,,,,,8/24/2018 9:07:35,#N/A,0.57703,#N/A,#N/A,#N/A
+1196,Ozzie Albies,3238,0.15034,2B,Braves,8/24/2018,9:08:24 AM,Standard,https://mlbcryptobaseball.com/asset/3238,,,,,8/24/2018 9:08:24,0.15034,#N/A,#N/A,#N/A,#N/A
+1197,Ryan McMahon,3524,0.54834,1B,Rockies,8/24/2018,9:08:48 AM,Silver,https://mlbcryptobaseball.com/asset/3524,,,,,8/24/2018 9:08:48,#N/A,#N/A,0.54834,#N/A,#N/A
+1198,Mike Wright Jr.,3175,0.08961,P,Orioles,8/24/2018,9:09:15 AM,Bronze,https://mlbcryptobaseball.com/asset/3175,,,,,8/24/2018 9:09:15,#N/A,0.08961,#N/A,#N/A,#N/A
+1199,DJ LeMahieu,3404,0.53326,2B,Rockies,8/24/2018,9:10:18 AM,Standard,https://mlbcryptobaseball.com/asset/3404,,,,,8/24/2018 9:10:18,0.53326,#N/A,#N/A,#N/A,#N/A
+1200,Jake Bauers,3200,0.10534,1B,Rays,8/24/2018,9:10:33 AM,Bronze,https://mlbcryptobaseball.com/asset/3200,,,,,8/24/2018 9:10:33,#N/A,0.10534,#N/A,#N/A,#N/A
+1201,Josh Reddick,3636,0.78381,RF,Astros,8/24/2018,9:13:26 AM,Standard,https://mlbcryptobaseball.com/asset/3636,,,,,8/24/2018 9:13:26,0.78381,#N/A,#N/A,#N/A,#N/A
+1202,Branden Shipley,3193,0.09356,P,Diamondbacks,8/24/2018,9:13:43 AM,Bronze,https://mlbcryptobaseball.com/asset/3193,,,,,8/24/2018 9:13:43,#N/A,0.09356,#N/A,#N/A,#N/A
+1203,Rob Whalen,3171,0.08319,P,Mariners,8/24/2018,9:17:21 AM,Standard,https://mlbcryptobaseball.com/asset/3171,,,,,8/24/2018 9:17:21,0.08319,#N/A,#N/A,#N/A,#N/A
+1204,Jordan Lyles,3316,0.39353,P,Brewers,8/24/2018,9:17:37 AM,Silver,https://mlbcryptobaseball.com/asset/3316,,,,,8/24/2018 9:17:37,#N/A,#N/A,0.39353,#N/A,#N/A
+1205,Manny Pina,3226,0.12060,C,Brewers,8/24/2018,9:18:34 AM,Standard,https://mlbcryptobaseball.com/asset/3226,,,,,8/24/2018 9:18:34,0.12060,#N/A,#N/A,#N/A,#N/A
+1206,Domingo Santana,2566,0.24179,RF,Brewers,8/24/2018,9:18:50 AM,Standard,https://mlbcryptobaseball.com/asset/2566,,,,,8/24/2018 9:18:50,0.24179,#N/A,#N/A,#N/A,#N/A
+1207,Dan Straily,3203,0.09429,P,Marlins,8/24/2018,9:19:08 AM,Bronze,https://mlbcryptobaseball.com/asset/3203,,,,,8/24/2018 9:19:08,#N/A,0.09429,#N/A,#N/A,#N/A
+1208,Mitch Moreland,3462,0.70911,1B,Red Sox,8/24/2018,9:19:24 AM,Standard,https://mlbcryptobaseball.com/asset/3462,,,,,8/24/2018 9:19:24,0.70911,#N/A,#N/A,#N/A,#N/A
+1209,Chris O'Grady,2363,0.20000,P,Marlins,8/24/2018,9:22:25 AM,Bronze,https://mlbcryptobaseball.com/asset/2363,,,,,8/24/2018 9:22:25,#N/A,0.20000,#N/A,#N/A,#N/A
+1210,Matt Duffy,3170,0.07554,3B,Rays,8/24/2018,9:24:21 AM,Standard,https://mlbcryptobaseball.com/asset/3170,,,,,8/24/2018 9:24:21,0.07554,#N/A,#N/A,#N/A,#N/A
+1211,Starling Marte,3207,0.08650,CF,Pirates,8/24/2018,9:33:39 AM,Standard,https://mlbcryptobaseball.com/asset/3207,,,,,8/24/2018 9:33:39,0.08650,#N/A,#N/A,#N/A,#N/A
+1212,Nick Markakis,3148,0.05998,RF,Braves,8/24/2018,9:35:22 AM,Standard,https://mlbcryptobaseball.com/asset/3148,,,,,8/24/2018 9:35:22,0.05998,#N/A,#N/A,#N/A,#N/A
+1213,Jharel Cotton,3206,0.08617,P,A's,8/24/2018,9:36:44 AM,Standard,https://mlbcryptobaseball.com/asset/3206,,,,,8/24/2018 9:36:44,0.08617,#N/A,#N/A,#N/A,#N/A
+1214,Jesus Aguilar,3166,0.06721,1B,Brewers,8/24/2018,9:37:18 AM,Standard,https://mlbcryptobaseball.com/asset/3166,,,,,8/24/2018 9:37:18,0.06721,#N/A,#N/A,#N/A,#N/A
+1215,Logan Morrison,3195,0.07686,1B,Twins,8/24/2018,9:37:31 AM,Standard,https://mlbcryptobaseball.com/asset/3195,,,,,8/24/2018 9:37:31,0.07686,#N/A,#N/A,#N/A,#N/A
+1216,Billy Hamilton,3181,0.07080,CF,Reds,8/24/2018,9:40:27 AM,Standard,https://mlbcryptobaseball.com/asset/3181,,,,,8/24/2018 9:40:27,0.07080,#N/A,#N/A,#N/A,#N/A
+1217,Nick Markakis,3148,0.05998,RF,Braves,8/24/2018,9:40:41 AM,Standard,https://mlbcryptobaseball.com/asset/3148,,,,,8/24/2018 9:40:41,0.05998,#N/A,#N/A,#N/A,#N/A
+1218,Marco Estrada,3234,0.10962,P,Blue Jays,8/24/2018,9:44:49 AM,Bronze,https://mlbcryptobaseball.com/asset/3234,,,,,8/24/2018 9:44:49,#N/A,0.10962,#N/A,#N/A,#N/A
+1219,Jose Abreu,3182,0.06834,1B,White Sox,8/24/2018,9:45:08 AM,Standard,https://mlbcryptobaseball.com/asset/3182,,,,,8/24/2018 9:45:08,0.06834,#N/A,#N/A,#N/A,#N/A
+1220,Aaron Bummer,3152,0.05435,P,White Sox,8/24/2018,9:47:24 AM,Standard,https://mlbcryptobaseball.com/asset/3152,,,,,8/24/2018 9:47:24,0.05435,#N/A,#N/A,#N/A,#N/A
+1221,Francisco Lindor,3400,0.49478,SS,Indians,8/24/2018,9:47:37 AM,Standard,https://mlbcryptobaseball.com/asset/3400,,,,,8/24/2018 9:47:37,0.49478,#N/A,#N/A,#N/A,#N/A
+1222,Joey Gallo,3202,0.07370,LF,Rangers,8/24/2018,9:48:51 AM,Standard,https://mlbcryptobaseball.com/asset/3202,,,,,8/24/2018 9:48:51,0.07370,#N/A,#N/A,#N/A,#N/A
+1223,Mark Canha,3146,0.05024,CF,A's,8/24/2018,9:49:17 AM,Standard,https://mlbcryptobaseball.com/asset/3146,,,,,8/24/2018 9:49:17,0.05024,#N/A,#N/A,#N/A,#N/A
+1224,Jesus Aguilar,3196,0.06931,1B,Brewers,8/24/2018,9:52:23 AM,Standard,https://mlbcryptobaseball.com/asset/3196,,,,,8/24/2018 9:52:23,0.06931,#N/A,#N/A,#N/A,#N/A
+1225,Curt Casali,3151,0.04977,C,Reds,8/24/2018,9:53:26 AM,Standard,https://mlbcryptobaseball.com/asset/3151,,,,,8/24/2018 9:53:26,0.04977,#N/A,#N/A,#N/A,#N/A
+1226,Drew Smith,3150,0.04500,P,Mets,8/24/2018,9:58:26 AM,Standard,https://mlbcryptobaseball.com/asset/3150,,,,,8/24/2018 9:58:26,0.04500,#N/A,#N/A,#N/A,#N/A
+1227,Francisco Arcia,3198,0.06480,C,Angels,8/24/2018,10:00:08 AM,Standard,https://mlbcryptobaseball.com/asset/3198,,,,,8/24/2018 10:00:08,0.06480,#N/A,#N/A,#N/A,#N/A
+1228,Gorkys Hernandez,3155,0.04392,CF,Giants,8/24/2018,10:01:47 AM,Standard,https://mlbcryptobaseball.com/asset/3155,,,,,8/24/2018 10:01:47,0.04392,#N/A,#N/A,#N/A,#N/A
+1229,Kirby Yates,3209,0.06657,P,Padres,8/24/2018,10:02:09 AM,Standard,https://mlbcryptobaseball.com/asset/3209,,,,,8/24/2018 10:02:09,0.06657,#N/A,#N/A,#N/A,#N/A
+1230,Justin Bour,3173,0.05148,1B,Marlins,8/24/2018,10:02:27 AM,Standard,https://mlbcryptobaseball.com/asset/3173,,,,,8/24/2018 10:02:27,0.05148,#N/A,#N/A,#N/A,#N/A
+1231,Ranger Suarez,3153,0.04230,P,Phillies,8/24/2018,10:04:52 AM,Standard,https://mlbcryptobaseball.com/asset/3153,,,,,8/24/2018 10:04:52,0.04230,#N/A,#N/A,#N/A,#N/A
+1232,Matt Koch,3163,0.04645,P,Diamondbacks,8/24/2018,10:05:08 AM,Standard,https://mlbcryptobaseball.com/asset/3163,,,,,8/24/2018 10:05:08,0.04645,#N/A,#N/A,#N/A,#N/A
+1233,Austin Slater,3185,0.05354,LF,Giants,8/24/2018,10:05:23 AM,Standard,https://mlbcryptobaseball.com/asset/3185,,,,,8/24/2018 10:05:23,0.05354,#N/A,#N/A,#N/A,#N/A
+1234,Daniel Mengden,3236,0.09785,P,A's,8/24/2018,10:05:45 AM,Standard,https://mlbcryptobaseball.com/asset/3236,,,,,8/24/2018 10:05:45,0.09785,#N/A,#N/A,#N/A,#N/A
+1235,Sandy Alcantara,3233,0.08955,P,Marlins,8/24/2018,10:09:22 AM,Standard,https://mlbcryptobaseball.com/asset/3233,,,,,8/24/2018 10:09:22,0.08955,#N/A,#N/A,#N/A,#N/A
+1236,Luis Guillorme,3210,0.06310,3B,Mets,8/24/2018,10:09:55 AM,Standard,https://mlbcryptobaseball.com/asset/3210,,,,,8/24/2018 10:09:55,0.06310,#N/A,#N/A,#N/A,#N/A
+1237,Dan Wrinkler,3208,0.06234,P,Braves,8/24/2018,10:09:57 AM,Standard,https://mlbcryptobaseball.com/asset/3208,,,,,8/24/2018 10:09:57,0.06234,#N/A,#N/A,#N/A,#N/A
+1238,Michael Feliz,3177,0.04994,P,Pirates,8/24/2018,10:10:14 AM,Standard,https://mlbcryptobaseball.com/asset/3177,,,,,8/24/2018 10:10:14,0.04994,#N/A,#N/A,#N/A,#N/A
+1239,Caleb Joseph,3205,0.06172,C,Orioles,8/24/2018,10:10:29 AM,Standard,https://mlbcryptobaseball.com/asset/3205,,,,,8/24/2018 10:10:29,0.06172,#N/A,#N/A,#N/A,#N/A
+1240,Daniel Palka,3212,0.05770,RF,White Sox,8/24/2018,10:17:44 AM,Standard,https://mlbcryptobaseball.com/asset/3212,,,,,8/24/2018 10:17:44,0.05770,#N/A,#N/A,#N/A,#N/A
+1241,Jakob Junis,3199,0.05512,P,Royals,8/24/2018,10:17:56 AM,Standard,https://mlbcryptobaseball.com/asset/3199,,,,,8/24/2018 10:17:56,0.05512,#N/A,#N/A,#N/A,#N/A
+1242,Giancarlo Stanton,3694,0.99926,LF,Yankees,8/24/2018,10:18:11 AM,Bronze,https://mlbcryptobaseball.com/asset/3694,,,,,8/24/2018 10:18:11,#N/A,0.99926,#N/A,#N/A,#N/A
+1243,Brandon Nimmo,3060,0.13898,CF,Mets,8/24/2018,10:18:24 AM,Standard,https://mlbcryptobaseball.com/asset/3060,,,,,8/24/2018 10:18:24,0.13898,#N/A,#N/A,#N/A,#N/A
+1244,Marwin Gonzalez,3691,0.99884,LF,Astros,8/24/2018,10:18:38 AM,Standard,https://mlbcryptobaseball.com/asset/3691,,,,,8/24/2018 10:18:38,0.99884,#N/A,#N/A,#N/A,#N/A
+1245,Austin Davis,3213,0.05587,P,Phillies,8/24/2018,10:21:46 AM,Standard,https://mlbcryptobaseball.com/asset/3213,,,,,8/24/2018 10:21:46,0.05587,#N/A,#N/A,#N/A,#N/A
+1246,Francisco Lindor,3370,0.42769,SS,Indians,8/24/2018,10:22:13 AM,Standard,https://mlbcryptobaseball.com/asset/3370,,,,,8/24/2018 10:22:13,0.42769,#N/A,#N/A,#N/A,#N/A
+1247,Chris Sale,3582,0.62007,P,Red Sox,8/24/2018,10:26:54 AM,Standard,https://mlbcryptobaseball.com/asset/3582,,,,,8/24/2018 10:26:54,0.62007,#N/A,#N/A,#N/A,#N/A
+1248,Jake Lamb,3223,0.05587,3B,Diamondbacks,8/24/2018,10:27:12 AM,Standard,https://mlbcryptobaseball.com/asset/3223,,,,,8/24/2018 10:27:12,0.05587,#N/A,#N/A,#N/A,#N/A
+1249,Whit Merrifield,3229,0.06758,2B,Royals,8/24/2018,10:27:33 AM,Standard,https://mlbcryptobaseball.com/asset/3229,,,,,8/24/2018 10:27:33,0.06758,#N/A,#N/A,#N/A,#N/A
+1250,David Hernandez,3211,0.04998,P,Reds,8/24/2018,10:28:17 AM,Standard,https://mlbcryptobaseball.com/asset/3211,,,,,8/24/2018 10:28:17,0.04998,#N/A,#N/A,#N/A,#N/A
+1251,Max Scherzer,3311,0.03153,P,Nationals,8/24/2018,10:29:13 AM,Standard,https://mlbcryptobaseball.com/asset/3311,,,,,8/24/2018 10:29:13,0.03153,#N/A,#N/A,#N/A,#N/A
+1252,Andrew McCutchen,3305,0.31335,3B,Giants,8/24/2018,10:30:48 AM,Bronze,https://mlbcryptobaseball.com/asset/3305,,,,,8/24/2018 10:30:48,#N/A,0.31335,#N/A,#N/A,#N/A
+1253,Chase Utley,3307,0.30734,2B,Dodgers,8/24/2018,10:34:33 AM,Bronze,https://mlbcryptobaseball.com/asset/3307,,,,,8/24/2018 10:34:33,#N/A,0.30734,#N/A,#N/A,#N/A
+1254,Cody Bellinger,3588,0.59331,1B,Dodgers,8/24/2018,10:48:11 AM,Bronze,https://mlbcryptobaseball.com/asset/3588,,,,,8/24/2018 10:48:11,#N/A,0.59331,#N/A,#N/A,#N/A
+1255,Clayton Kershaw,3337,0.31213,P,Dodgers,8/24/2018,10:48:26 AM,Standard,https://mlbcryptobaseball.com/asset/3337,,,,,8/24/2018 10:48:26,0.31213,#N/A,#N/A,#N/A,#N/A
+1256,Clayton Kershaw,3517,0.47015,P,Dodgers,8/24/2018,10:48:41 AM,Standard,https://mlbcryptobaseball.com/asset/3517,,,,,8/24/2018 10:48:41,0.47015,#N/A,#N/A,#N/A,#N/A
+1257,Mike Mayers,3227,0.05294,P,Cardinals,8/24/2018,10:48:53 AM,Standard,https://mlbcryptobaseball.com/asset/3227,,,,,8/24/2018 10:48:53,0.05294,#N/A,#N/A,#N/A,#N/A
+1258,Matt Carpenter,3702,0.99883,3B,Cardinals,8/24/2018,10:49:05 AM,Silver,https://mlbcryptobaseball.com/asset/3702,,,,,8/24/2018 10:49:05,#N/A,#N/A,0.99883,#N/A,#N/A
+1259,Wilmer Font,3230,0.05257,P,Rays,8/24/2018,10:50:34 AM,Standard,https://mlbcryptobaseball.com/asset/3230,,,,,8/24/2018 10:50:34,0.05257,#N/A,#N/A,#N/A,#N/A
+1260,Felix Hernandez,3231,0.05137,P,Mariners,8/24/2018,10:51:12 AM,Standard,https://mlbcryptobaseball.com/asset/3231,,,,,8/24/2018 10:51:12,0.05137,#N/A,#N/A,#N/A,#N/A
+1261,Brandon Crawford,3245,0.05766,SS,Giants,8/24/2018,10:54:28 AM,Standard,https://mlbcryptobaseball.com/asset/3245,,,,,8/24/2018 10:54:28,0.05766,#N/A,#N/A,#N/A,#N/A
+1262,Ronald Guzman,3232,0.04984,1B,Rangers,8/24/2018,10:54:39 AM,Standard,https://mlbcryptobaseball.com/asset/3232,,,,,8/24/2018 10:54:39,0.04984,#N/A,#N/A,#N/A,#N/A
+1263,Chase Utley,3307,0.78734,2B,Dodgers,8/24/2018,10:54:51 AM,Bronze,https://mlbcryptobaseball.com/asset/3307,,,,,8/24/2018 10:54:51,#N/A,0.78734,#N/A,#N/A,#N/A
+1264,Dellin Betances,3270,0.24274,P,Yankees,8/24/2018,10:56:25 AM,Standard,https://mlbcryptobaseball.com/asset/3270,,,,,8/24/2018 10:56:25,0.24274,#N/A,#N/A,#N/A,#N/A
+1265,Nick Williams,3663,0.81198,RF,Phillies,8/24/2018,10:56:38 AM,Silver,https://mlbcryptobaseball.com/asset/3663,,,,,8/24/2018 10:56:38,#N/A,#N/A,0.81198,#N/A,#N/A
+1266,Yoan Moncada,3662,0.81123,2B,White Sox,8/24/2018,10:57:53 AM,Silver,https://mlbcryptobaseball.com/asset/3662,,,,,8/24/2018 10:57:53,#N/A,#N/A,0.81123,#N/A,#N/A
+1267,Justin Verlander,3246,0.20471,P,Astros,8/24/2018,11:03:38 AM,Standard,https://mlbcryptobaseball.com/asset/3246,,,,,8/24/2018 11:03:38,0.20471,#N/A,#N/A,#N/A,#N/A
+1268,Devon Travis,3024,0.24912,2B,Blue Jays,8/24/2018,11:07:02 AM,Bronze,https://mlbcryptobaseball.com/asset/3024,,,,,8/24/2018 11:07:02,#N/A,0.24912,#N/A,#N/A,#N/A
+1269,Mychal Givens,3235,0.03376,P,Orioles,8/24/2018,11:14:06 AM,Standard,https://mlbcryptobaseball.com/asset/3235,,,,,8/24/2018 11:14:06,0.03376,#N/A,#N/A,#N/A,#N/A
+1270,Kyle Tucker,3276,0.22459,LF,Astros,8/24/2018,11:16:07 AM,Bronze,https://mlbcryptobaseball.com/asset/3276,,,,,8/24/2018 11:16:07,#N/A,0.22459,#N/A,#N/A,#N/A
+1271,Luke Voit,3309,0.25116,1B,Yankees,8/24/2018,11:46:14 AM,Standard,https://mlbcryptobaseball.com/asset/3309,,,,,8/24/2018 11:46:14,0.25116,#N/A,#N/A,#N/A,#N/A
+1272,Rougned Odor,3412,0.40892,2B,Rangers,8/24/2018,11:46:32 AM,Standard,https://mlbcryptobaseball.com/asset/3412,,,,,8/24/2018 11:46:32,0.40892,#N/A,#N/A,#N/A,#N/A
+1273,Javier Baez,3693,0.93956,2B,Cubs,8/24/2018,11:46:48 AM,Standard,https://mlbcryptobaseball.com/asset/3693,,,,,8/24/2018 11:46:48,0.93956,#N/A,#N/A,#N/A,#N/A
+1274,Gary Sanchez,3724,0.99873,C,Yankees,8/24/2018,11:47:55 AM,Bronze,https://mlbcryptobaseball.com/asset/3724,,,,,8/24/2018 11:47:55,#N/A,0.99873,#N/A,#N/A,#N/A
+1275,Greg Allen,3340,0.24610,CF,Indians,8/24/2018,11:48:16 AM,Standard,https://mlbcryptobaseball.com/asset/3340,,,,,8/24/2018 11:48:16,0.24610,#N/A,#N/A,#N/A,#N/A
+1276,Johan Camargo,3358,0.36286,3B,Braves,8/24/2018,11:48:16 AM,Bronze,https://mlbcryptobaseball.com/asset/3358,,,,,8/24/2018 11:48:16,#N/A,0.36286,#N/A,#N/A,#N/A
+1277,Christian Yelich,3286,0.20987,LF,Brewers,8/24/2018,11:51:05 AM,Standard,https://mlbcryptobaseball.com/asset/3286,,,,,8/24/2018 11:51:05,0.20987,#N/A,#N/A,#N/A,#N/A
+1278,Kyle Schwarber,3638,0.67846,LF,Cubs,8/24/2018,11:51:28 AM,Standard,https://mlbcryptobaseball.com/asset/3638,,,,,8/24/2018 11:51:28,0.67846,#N/A,#N/A,#N/A,#N/A
+1279,Johan Camargo,3298,0.22012,3B,Braves,8/24/2018,11:53:33 AM,Bronze,https://mlbcryptobaseball.com/asset/3298,,,,,8/24/2018 11:53:33,#N/A,0.22012,#N/A,#N/A,#N/A
+1280,Corey Kluber,3695,0.93191,P,Indians,8/24/2018,11:55:18 AM,Standard,https://mlbcryptobaseball.com/asset/3695,,,,,8/24/2018 11:55:18,0.93191,#N/A,#N/A,#N/A,#N/A
+1281,Mike Trout,3498,0.52317,CF,Angels,8/24/2018,12:02:19 PM,Standard,https://mlbcryptobaseball.com/asset/3498,,,,,8/24/2018 12:02:19,0.52317,#N/A,#N/A,#N/A,#N/A
+1282,Ryan Sherriff,3257,0.15837,P,Cardinals,8/24/2018,12:02:38 PM,Bronze,https://mlbcryptobaseball.com/asset/3257,,,,,8/24/2018 12:02:38,#N/A,0.15837,#N/A,#N/A,#N/A
+1283,J.D. Martinez,3727,0.99845,LF,Red Sox,8/24/2018,12:05:04 PM,Standard,https://mlbcryptobaseball.com/asset/3727,,,,,8/24/2018 12:05:04,0.99845,#N/A,#N/A,#N/A,#N/A
+1284,Brian McCann,3306,0.21101,C,Astros,8/24/2018,12:08:58 PM,Standard,https://mlbcryptobaseball.com/asset/3306,,,,,8/24/2018 12:08:58,0.21101,#N/A,#N/A,#N/A,#N/A
+1285,George Springer,3396,0.35874,CF,Astros,8/24/2018,12:09:11 PM,Standard,https://mlbcryptobaseball.com/asset/3396,,,,,8/24/2018 12:09:11,0.35874,#N/A,#N/A,#N/A,#N/A
+1286,Danny Duffy,3139,0.10000,P,Royals,8/24/2018,12:13:14 PM,Standard,https://mlbcryptobaseball.com/asset/3139,,,,,8/24/2018 12:13:14,0.10000,#N/A,#N/A,#N/A,#N/A
+1287,Justin Turner,3247,0.13168,3B,Dodgers,8/24/2018,12:26:40 PM,Standard,https://mlbcryptobaseball.com/asset/3247,,,,,8/24/2018 12:26:40,0.13168,#N/A,#N/A,#N/A,#N/A
+1288,Zack Greinke,3253,0.13489,P,Diamondbacks,8/24/2018,12:26:55 PM,Standard,https://mlbcryptobaseball.com/asset/3253,,,,,8/24/2018 12:26:55,0.13489,#N/A,#N/A,#N/A,#N/A
+1289,Hunter Dozier,3259,0.13166,1B,Royals,8/24/2018,12:34:17 PM,Bronze,https://mlbcryptobaseball.com/asset/3259,,,,,8/24/2018 12:34:17,#N/A,0.13166,#N/A,#N/A,#N/A
+1290,Jose Abreu,3272,0.14713,1B,White Sox,8/24/2018,12:36:52 PM,Bronze,https://mlbcryptobaseball.com/asset/3272,,,,,8/24/2018 12:36:52,#N/A,0.14713,#N/A,#N/A,#N/A
+1291,Eduardo Escobar,3343,0.19653,3B,Diamondbacks,8/24/2018,12:47:46 PM,Standard,https://mlbcryptobaseball.com/asset/3343,,,,,8/24/2018 12:47:46,0.19653,#N/A,#N/A,#N/A,#N/A
+1292,Byron Buxton,3285,0.14691,CF,Twins,8/24/2018,12:48:03 PM,Bronze,https://mlbcryptobaseball.com/asset/3285,,,,,8/24/2018 12:48:03,#N/A,0.14691,#N/A,#N/A,#N/A
+1293,Kevin Kiemaier,3260,0.12353,CF,Rays,8/24/2018,12:48:25 PM,Standard,https://mlbcryptobaseball.com/asset/3260,,,,,8/24/2018 12:48:25,0.12353,#N/A,#N/A,#N/A,#N/A
+1294,Aaron Judge,3639,0.63766,RF,Yankees,8/24/2018,12:48:43 PM,Standard,https://mlbcryptobaseball.com/asset/3639,,,,,8/24/2018 12:48:43,0.63766,#N/A,#N/A,#N/A,#N/A
+1295,Josh Donaldson,3294,0.15358,3B,Blue Jays,8/24/2018,12:49:38 PM,Bronze,https://mlbcryptobaseball.com/asset/3294,,,,,8/24/2018 12:49:38,#N/A,0.15358,#N/A,#N/A,#N/A
+1296,Albert Pujols,3258,0.11492,1B,Angels,8/24/2018,1:03:12 PM,Standard,https://mlbcryptobaseball.com/asset/3258,,,,,8/24/2018 13:03:12,0.11492,#N/A,#N/A,#N/A,#N/A
+1297,Khris Davis,3326,0.17786,LF,A's,8/24/2018,1:03:28 PM,Standard,https://mlbcryptobaseball.com/asset/3326,,,,,8/24/2018 13:03:28,0.17786,#N/A,#N/A,#N/A,#N/A
+1298,Christian Yelich,3286,0.20987,LF,Brewers,8/24/2018,1:03:46 PM,Standard,https://mlbcryptobaseball.com/asset/3286,,,,,8/24/2018 13:03:46,0.20987,#N/A,#N/A,#N/A,#N/A
+1299,Rougned Odor,3322,0.16604,2B,Rangers,8/24/2018,1:03:57 PM,Standard,https://mlbcryptobaseball.com/asset/3322,,,,,8/24/2018 13:03:57,0.16604,#N/A,#N/A,#N/A,#N/A
+1300,Luis Severino,3609,0.55942,P,Yankees,8/24/2018,1:05:50 PM,Bronze,https://mlbcryptobaseball.com/asset/3609,,,,,8/24/2018 13:05:50,#N/A,0.55942,#N/A,#N/A,#N/A
+1301,Enrique Hernandez,3277,0.11930,CF,Dodgers,8/24/2018,1:12:03 PM,Standard,https://mlbcryptobaseball.com/asset/3277,,,,,8/24/2018 13:12:03,0.11930,#N/A,#N/A,#N/A,#N/A
+1302,John Andreoli,3321,0.14883,RF,Mariners,8/24/2018,1:17:28 PM,Bronze,https://mlbcryptobaseball.com/asset/3321,,,,,8/24/2018 13:17:28,#N/A,0.14883,#N/A,#N/A,#N/A
+1303,Richard Rodriguez,1324,0.22500,P,Pirates,8/24/2018,1:20:42 PM,Silver,https://mlbcryptobaseball.com/asset/1324,,,,,8/24/2018 13:20:42,#N/A,#N/A,0.22500,#N/A,#N/A
+1304,James Paxton,3261,0.08710,P,Mariners,8/24/2018,1:30:28 PM,Standard,https://mlbcryptobaseball.com/asset/3261,,,,,8/24/2018 13:30:28,0.08710,#N/A,#N/A,#N/A,#N/A
+1305,Pablo Lopez,3431,0.29912,P,Marlins,8/24/2018,1:35:44 PM,Silver,https://mlbcryptobaseball.com/asset/3431,,,,,8/24/2018 13:35:44,#N/A,#N/A,0.29912,#N/A,#N/A
+1306,Russell Martin,3264,0.08357,C,Blue Jays,8/24/2018,1:36:13 PM,Standard,https://mlbcryptobaseball.com/asset/3264,,,,,8/24/2018 13:36:13,0.08357,#N/A,#N/A,#N/A,#N/A
+1307,Javier Baez,3578,0.47545,2B,Cubs,8/24/2018,1:36:28 PM,Standard,https://mlbcryptobaseball.com/asset/3578,,,,,8/24/2018 13:36:28,0.47545,#N/A,#N/A,#N/A,#N/A
+1308,Aaron Loup,3273,0.08929,P,Phillies,8/24/2018,1:38:37 PM,Standard,https://mlbcryptobaseball.com/asset/3273,,,,,8/24/2018 13:38:37,0.08929,#N/A,#N/A,#N/A,#N/A
+1309,Devin Mesoraco,3270,0.08635,C,Mets,8/24/2018,1:38:55 PM,Standard,https://mlbcryptobaseball.com/asset/3270,,,,,8/24/2018 13:38:55,0.08635,#N/A,#N/A,#N/A,#N/A
+1310,Nathan Eovaldi,3672,0.67101,P,Red Sox,8/24/2018,1:46:13 PM,Standard,https://mlbcryptobaseball.com/asset/3672,,,,,8/24/2018 13:46:13,0.67101,#N/A,#N/A,#N/A,#N/A
+1311,Jesus Aguilar,3256,0.06993,1B,Brewers,8/24/2018,1:46:30 PM,Standard,https://mlbcryptobaseball.com/asset/3256,,,,,8/24/2018 13:46:30,0.06993,#N/A,#N/A,#N/A,#N/A
+1312,Wil Myers,3269,0.07552,LF,Padres,8/24/2018,1:55:10 PM,Standard,https://mlbcryptobaseball.com/asset/3269,,,,,8/24/2018 13:55:10,0.07552,#N/A,#N/A,#N/A,#N/A
+1313,Robbie Grossman,3255,0.05899,RF,Twins,8/24/2018,1:55:29 PM,Standard,https://mlbcryptobaseball.com/asset/3255,,,,,8/24/2018 13:55:29,0.05899,#N/A,#N/A,#N/A,#N/A
+1314,Matt Chapman,3266,0.06957,3B,A's,8/24/2018,1:56:29 PM,Standard,https://mlbcryptobaseball.com/asset/3266,,,,,8/24/2018 13:56:29,0.06957,#N/A,#N/A,#N/A,#N/A
+1315,Brian Duensing,3278,0.07295,P,Cubs,8/24/2018,1:58:44 PM,Standard,https://mlbcryptobaseball.com/asset/3278,,,,,8/24/2018 13:58:44,0.07295,#N/A,#N/A,#N/A,#N/A
+1316,Corey Gearrin,3262,0.05678,P,Rangers,8/24/2018,2:03:48 PM,Standard,https://mlbcryptobaseball.com/asset/3262,,,,,8/24/2018 14:03:48,0.05678,#N/A,#N/A,#N/A,#N/A
+1317,Manny Machado,3752,0.96672,3B,Dodgers,8/24/2018,2:04:34 PM,Standard,https://mlbcryptobaseball.com/asset/3752,,,,,8/24/2018 14:04:34,0.96672,#N/A,#N/A,#N/A,#N/A
+1318,Justin Smoak,3324,0.10593,1B,Blue Jays,8/24/2018,2:05:49 PM,Standard,https://mlbcryptobaseball.com/asset/3324,,,,,8/24/2018 14:05:49,0.10593,#N/A,#N/A,#N/A,#N/A
+1319,Luke Farrell,3308,0.08564,P,Cubs,8/24/2018,2:11:38 PM,Standard,https://mlbcryptobaseball.com/asset/3308,,,,,8/24/2018 14:11:38,0.08564,#N/A,#N/A,#N/A,#N/A
+1320,Dan Otero ,3310,0.08515,P,Indians,8/24/2018,2:11:48 PM,Standard,https://mlbcryptobaseball.com/asset/3310,,,,,8/24/2018 14:11:48,0.08515,#N/A,#N/A,#N/A,#N/A
+1321,Eric Hosmer,3299,0.07666,1B,Padres,8/24/2018,2:13:31 PM,Standard,https://mlbcryptobaseball.com/asset/3299,,,,,8/24/2018 14:13:31,0.07666,#N/A,#N/A,#N/A,#N/A
+1322,Gorkys Hernandez,3275,0.05472,CF,Giants,8/24/2018,2:15:22 PM,Standard,https://mlbcryptobaseball.com/asset/3275,,,,,8/24/2018 14:15:22,0.05472,#N/A,#N/A,#N/A,#N/A
+1323,Trevor May,3315,0.08440,P,Twins,8/24/2018,2:15:35 PM,Standard,https://mlbcryptobaseball.com/asset/3315,,,,,8/24/2018 14:15:35,0.08440,#N/A,#N/A,#N/A,#N/A
+1324,Sam Freeman,3328,0.09160,P,Braves,8/24/2018,2:18:09 PM,Standard,https://mlbcryptobaseball.com/asset/3328,,,,,8/24/2018 14:18:09,0.09160,#N/A,#N/A,#N/A,#N/A
+1325,Martin Maldonado,3336,0.09483,C,Astros,8/24/2018,2:18:25 PM,Standard,https://mlbcryptobaseball.com/asset/3336,,,,,8/24/2018 14:18:25,0.09483,#N/A,#N/A,#N/A,#N/A
+1326,Matt Chapman,3356,0.21423,3B,A's,8/24/2018,2:23:19 PM,Bronze,https://mlbcryptobaseball.com/asset/3356,,,,,8/24/2018 14:23:19,#N/A,0.21423,#N/A,#N/A,#N/A
+1327,David Dahl,3374,0.20759,RF,Rockies,8/24/2018,2:27:18 PM,Bronze,https://mlbcryptobaseball.com/asset/3374,,,,,8/24/2018 14:27:18,#N/A,0.20759,#N/A,#N/A,#N/A
+1328,Giancarlo Stanton,3669,0.66781,LF,Yankees,8/24/2018,2:27:30 PM,Standard,https://mlbcryptobaseball.com/asset/3669,,,,,8/24/2018 14:27:30,0.66781,#N/A,#N/A,#N/A,#N/A
+1329,Greg Bird,3429,0.25804,1B,Yankees,8/24/2018,2:31:36 PM,Standard,https://mlbcryptobaseball.com/asset/3429,,,,,8/24/2018 14:31:36,0.25804,#N/A,#N/A,#N/A,#N/A
+1330,Craig Gentry,3265,0.03231,RF,Orioles,8/24/2018,2:31:54 PM,Standard,https://mlbcryptobaseball.com/asset/3265,,,,,8/24/2018 14:31:54,0.03231,#N/A,#N/A,#N/A,#N/A
+1331,Keone Kela,3267,0.03609,P,Pirates,8/24/2018,2:32:42 PM,Standard,https://mlbcryptobaseball.com/asset/3267,,,,,8/24/2018 14:32:42,0.03609,#N/A,#N/A,#N/A,#N/A
+1332,Francisco Arcia,3318,0.06981,C,Angels,8/24/2018,2:32:57 PM,Standard,https://mlbcryptobaseball.com/asset/3318,,,,,8/24/2018 14:32:57,0.06981,#N/A,#N/A,#N/A,#N/A
+1333,David Wright,3300,0.05569,3B,Mets,8/24/2018,2:34:18 PM,Standard,https://mlbcryptobaseball.com/asset/3300,,,,,8/24/2018 14:34:18,0.05569,#N/A,#N/A,#N/A,#N/A
+1334,Russell Martin,3384,0.20322,C,Blue Jays,8/24/2018,2:34:33 PM,Standard,https://mlbcryptobaseball.com/asset/3384,,,,,8/24/2018 14:34:33,0.20322,#N/A,#N/A,#N/A,#N/A
+1335,Dilson Herrera,3271,0.03717,2B,Reds,8/24/2018,2:34:56 PM,Standard,https://mlbcryptobaseball.com/asset/3271,,,,,8/24/2018 14:34:56,0.03717,#N/A,#N/A,#N/A,#N/A
+1336,Madison Bumgarner,3605,0.49069,P,Giants,8/24/2018,2:35:29 PM,Silver,https://mlbcryptobaseball.com/asset/3605,,,,,8/24/2018 14:35:29,#N/A,#N/A,0.49069,#N/A,#N/A
+1337,Miguel Gomez,3425,0.24095,2B,Giants,8/24/2018,2:40:35 PM,Silver,https://mlbcryptobaseball.com/asset/3425,,,,,8/24/2018 14:40:35,#N/A,#N/A,0.24095,#N/A,#N/A
+1338,Whit Merrifield,3289,0.04117,2B,Royals,8/24/2018,2:41:00 PM,Standard,https://mlbcryptobaseball.com/asset/3289,,,,,8/24/2018 14:41:00,0.04117,#N/A,#N/A,#N/A,#N/A
+1339,Parker Bidwell,3288,0.04536,P,Angels,8/24/2018,2:41:18 PM,Standard,https://mlbcryptobaseball.com/asset/3288,,,,,8/24/2018 14:41:18,0.04536,#N/A,#N/A,#N/A,#N/A
+1340,Drew Anderson,3303,0.05505,P,Phillies,8/24/2018,2:41:32 PM,Standard,https://mlbcryptobaseball.com/asset/3303,,,,,8/24/2018 14:41:32,0.05505,#N/A,#N/A,#N/A,#N/A
+1341,Salvador Perez,3319,0.06409,C,Royals,8/24/2018,2:41:49 PM,Standard,https://mlbcryptobaseball.com/asset/3319,,,,,8/24/2018 14:41:49,0.06409,#N/A,#N/A,#N/A,#N/A
+1342,Gregory Polanco,3297,0.04760,RF,Pirates,8/24/2018,2:42:12 PM,Standard,https://mlbcryptobaseball.com/asset/3297,,,,,8/24/2018 14:42:12,0.04760,#N/A,#N/A,#N/A,#N/A
+1343,Trey Mancini,3295,0.04144,LF,Orioles,8/24/2018,2:44:05 PM,Standard,https://mlbcryptobaseball.com/asset/3295,,,,,8/24/2018 14:44:05,0.04144,#N/A,#N/A,#N/A,#N/A
+1344,Avisail Garcia,3332,0.06730,RF,White Sox,8/24/2018,2:44:21 PM,Standard,https://mlbcryptobaseball.com/asset/3332,,,,,8/24/2018 14:44:21,0.06730,#N/A,#N/A,#N/A,#N/A
+1345,Jose Urena,3293,0.03722,P,Marlins,8/24/2018,2:49:14 PM,Standard,https://mlbcryptobaseball.com/asset/3293,,,,,8/24/2018 14:49:14,0.03722,#N/A,#N/A,#N/A,#N/A
+1346,Mike Trout,3678,0.63359,CF,Angels,8/24/2018,2:49:29 PM,Standard,https://mlbcryptobaseball.com/asset/3678,,,,,8/24/2018 14:49:29,0.63359,#N/A,#N/A,#N/A,#N/A
+1347,Gorkys Hernandez,3335,0.06133,CF,Giants,8/24/2018,2:49:40 PM,Standard,https://mlbcryptobaseball.com/asset/3335,,,,,8/24/2018 14:49:40,0.06133,#N/A,#N/A,#N/A,#N/A
+1348,Joe Palumbo,3292,0.03529,P,Rangers,8/24/2018,2:49:54 PM,Standard,https://mlbcryptobaseball.com/asset/3292,,,,,8/24/2018 14:49:54,0.03529,#N/A,#N/A,#N/A,#N/A
+1349,Mark Zagunis,3338,0.06344,RF,Cubs,8/24/2018,2:50:07 PM,Standard,https://mlbcryptobaseball.com/asset/3338,,,,,8/24/2018 14:50:07,0.06344,#N/A,#N/A,#N/A,#N/A
+1350,Jesus Aguilar,3346,0.18042,1B,Brewers,8/24/2018,2:52:20 PM,Standard,https://mlbcryptobaseball.com/asset/3346,,,,,8/24/2018 14:52:20,0.18042,#N/A,#N/A,#N/A,#N/A
+1351,Jorge Polanco,3345,0.06396,SS,Twins,8/24/2018,2:52:34 PM,Standard,https://mlbcryptobaseball.com/asset/3345,,,,,8/24/2018 14:52:34,0.06396,#N/A,#N/A,#N/A,#N/A
+1352,Jacob Turner,3304,0.03949,P,Tigers,8/24/2018,2:52:50 PM,Standard,https://mlbcryptobaseball.com/asset/3304,,,,,8/24/2018 14:52:50,0.03949,#N/A,#N/A,#N/A,#N/A
+1353,Joey Votto,3421,0.22429,1B,Reds,8/24/2018,2:57:37 PM,Standard,https://mlbcryptobaseball.com/asset/3421,,,,,8/24/2018 14:57:37,0.22429,#N/A,#N/A,#N/A,#N/A
+1354,Eric Hosmer,3329,0.05329,1B,Padres,8/24/2018,2:57:51 PM,Standard,https://mlbcryptobaseball.com/asset/3329,,,,,8/24/2018 14:57:51,0.05329,#N/A,#N/A,#N/A,#N/A
+1355,Anthony Rizzo,3398,0.19771,1B,Cubs,8/24/2018,3:00:38 PM,Standard,https://mlbcryptobaseball.com/asset/3398,,,,,8/24/2018 15:00:38,0.19771,#N/A,#N/A,#N/A,#N/A
+1356,Ryan Madson,1068,0.24970,P,Nationals,8/24/2018,3:00:52 PM,Bronze,https://mlbcryptobaseball.com/asset/1068,,,,,8/24/2018 15:00:52,#N/A,0.24970,#N/A,#N/A,#N/A
+1357,Joe Panik,3395,0.19694,2B,Giants,8/24/2018,3:02:22 PM,Standard,https://mlbcryptobaseball.com/asset/3395,,,,,8/24/2018 15:02:22,0.19694,#N/A,#N/A,#N/A,#N/A
+1358,Mallex Smith,3320,0.04263,CF,Rays,8/24/2018,3:02:37 PM,Standard,https://mlbcryptobaseball.com/asset/3320,,,,,8/24/2018 15:02:37,0.04263,#N/A,#N/A,#N/A,#N/A
+1359,Trevor Story,3858,0.99931,SS,Rockies,8/24/2018,4:03:32 PM,Standard,https://mlbcryptobaseball.com/asset/3858,,,,,8/24/2018 16:03:32,0.99931,#N/A,#N/A,#N/A,#N/A
+1360,Jimmie Sherfy,3373,0.12574,P,Diamondbacks,8/24/2018,4:03:47 PM,Standard,https://mlbcryptobaseball.com/asset/3373,,,,,8/24/2018 16:03:47,0.12574,#N/A,#N/A,#N/A,#N/A
+1361,Carlos Martinez,3347,0.11656,P,Cardinals,8/24/2018,4:04:04 PM,Standard,https://mlbcryptobaseball.com/asset/3347,,,,,8/24/2018 16:04:04,0.11656,#N/A,#N/A,#N/A,#N/A
+1362,Alex Verdugo,3367,0.11589,LF,Dodgers,8/24/2018,4:05:10 PM,Standard,https://mlbcryptobaseball.com/asset/3367,,,,,8/24/2018 16:05:10,0.11589,#N/A,#N/A,#N/A,#N/A
+1363,Jose Altuve,3880,0.99917,2B,Astros,8/24/2018,4:07:07 PM,Bronze,https://mlbcryptobaseball.com/asset/3880,,,,,8/24/2018 16:07:07,#N/A,0.99917,#N/A,#N/A,#N/A
+1364,Manny Pina,3376,0.12160,C,Brewers,8/24/2018,4:08:08 PM,Standard,https://mlbcryptobaseball.com/asset/3376,,,,,8/24/2018 16:08:08,0.12160,#N/A,#N/A,#N/A,#N/A
+1365,Mike Wright Jr.,3355,0.10782,P,Orioles,8/24/2018,4:10:18 PM,Bronze,https://mlbcryptobaseball.com/asset/3355,,,,,8/24/2018 16:10:18,#N/A,0.10782,#N/A,#N/A,#N/A
+1366,Mookie Betts,3886,0.99753,RF,Red Sox,8/24/2018,4:16:16 PM,Standard,https://mlbcryptobaseball.com/asset/3886,,,,,8/24/2018 16:16:16,0.99753,#N/A,#N/A,#N/A,#N/A
+1367,Mike Trout,3892,0.99914,CF,Angels,8/24/2018,4:16:31 PM,Standard,https://mlbcryptobaseball.com/asset/3892,,,,,8/24/2018 16:16:31,0.99914,#N/A,#N/A,#N/A,#N/A
+1368,Nolan Arenado,3464,0.21342,3B,Rockies,8/24/2018,4:17:25 PM,Standard,https://mlbcryptobaseball.com/asset/3464,,,,,8/24/2018 16:17:25,0.21342,#N/A,#N/A,#N/A,#N/A
+1369,Francisco Lindor,3884,0.99067,SS,Indians,8/24/2018,4:18:37 PM,Standard,https://mlbcryptobaseball.com/asset/3884,,,,,8/24/2018 16:18:37,0.99067,#N/A,#N/A,#N/A,#N/A
+1370,Kolten Wong,3762,0.89396,2B,Cardinals,8/24/2018,4:19:19 PM,Standard,https://mlbcryptobaseball.com/asset/3762,,,,,8/24/2018 16:19:19,0.89396,#N/A,#N/A,#N/A,#N/A
+1371,James Paxton,3411,0.13630,P,Mariners,8/24/2018,4:19:40 PM,Bronze,https://mlbcryptobaseball.com/asset/3411,,,,,8/24/2018 16:19:40,#N/A,0.13630,#N/A,#N/A,#N/A
+1372,Yadier Molina,3377,0.10349,C,Cardinals,8/24/2018,4:22:51 PM,Standard,https://mlbcryptobaseball.com/asset/3377,,,,,8/24/2018 16:22:51,0.10349,#N/A,#N/A,#N/A,#N/A
+1373,Alex Bergman,3456,0.10349,C,Cardinals,8/24/2018,4:26:10 PM,Standard,https://mlbcryptobaseball.com/asset/3456,,,,,8/24/2018 16:26:10,0.10349,#N/A,#N/A,#N/A,#N/A
+1374,Tommy Kahnle,3459,0.18776,P,Yankees,8/24/2018,4:26:30 PM,Standard,https://mlbcryptobaseball.com/asset/3459,,,,,8/24/2018 16:26:30,0.18776,#N/A,#N/A,#N/A,#N/A
+1375,Aaron Nola,3393,0.11270,P,Phillies,8/24/2018,4:28:36 PM,Standard,https://mlbcryptobaseball.com/asset/3393,,,,,8/24/2018 16:28:36,0.11270,#N/A,#N/A,#N/A,#N/A
+1376,Victor Martinez,3364,0.08948,DH,Tigers,8/24/2018,4:28:58 PM,Standard,https://mlbcryptobaseball.com/asset/3364,,,,,8/24/2018 16:28:58,0.08948,#N/A,#N/A,#N/A,#N/A
+1377,Clayton Kershaw,317,0.50000,P,Dodgers,8/24/2018,4:33:34 PM,Standard,https://mlbcryptobaseball.com/asset/317,,,,,8/24/2018 16:33:34,0.50000,#N/A,#N/A,#N/A,#N/A
+1378,Tayron Guerrero,3383,0.09077,P,Marlins,8/24/2018,4:40:01 PM,Standard,https://mlbcryptobaseball.com/asset/3383,,,,,8/24/2018 16:40:01,0.09077,#N/A,#N/A,#N/A,#N/A
+1379,Brett Kennedy,3912,0.99978,P,Padres,8/24/2018,4:49:22 PM,Legendary,https://mlbcryptobaseball.com/asset/3912,,,,,8/24/2018 16:49:22,#N/A,#N/A,#N/A,#N/A,0.99978
+1380,Mark Canha,3386,0.08278,CF,A's,8/24/2018,4:52:18 PM,Standard,https://mlbcryptobaseball.com/asset/3386,,,,,8/24/2018 16:52:18,0.08278,#N/A,#N/A,#N/A,#N/A
+1381,Scooter Gennett,3361,0.06934,2B,Reds,8/24/2018,4:52:36 PM,Standard,https://mlbcryptobaseball.com/asset/3361,,,,,8/24/2018 16:52:36,0.06934,#N/A,#N/A,#N/A,#N/A
+1382,Dilson Herrera,3271,0.14000,2B,Reds,8/24/2018,4:52:55 PM,Standard,https://mlbcryptobaseball.com/asset/3271,,,,,8/24/2018 16:52:55,0.14000,#N/A,#N/A,#N/A,#N/A
+1383,Enrique Hernandez,3397,0.08982,CF,Dodgers,8/24/2018,4:53:32 PM,Standard,https://mlbcryptobaseball.com/asset/3397,,,,,8/24/2018 16:53:32,0.08982,#N/A,#N/A,#N/A,#N/A
+1384,Logan Morrison,3435,0.11477,1B,Twins,8/24/2018,4:53:52 PM,Bronze,https://mlbcryptobaseball.com/asset/3435,,,,,8/24/2018 16:53:52,#N/A,0.11477,#N/A,#N/A,#N/A
+1385,Justin Bour,3353,0.05189,1B,Marlins,8/24/2018,5:09:46 PM,Standard,https://mlbcryptobaseball.com/asset/3353,,,,,8/24/2018 17:09:46,0.05189,#N/A,#N/A,#N/A,#N/A
+1386,Khris Davis,3476,0.16606,LF,A's,8/24/2018,5:10:02 PM,Standard,https://mlbcryptobaseball.com/asset/3476,,,,,8/24/2018 17:10:02,0.16606,#N/A,#N/A,#N/A,#N/A
+1387,Justin Bour,3473,0.17831,1B,Marlins,8/24/2018,5:10:21 PM,Bronze,https://mlbcryptobaseball.com/asset/3473,,,,,8/24/2018 17:10:21,#N/A,0.17831,#N/A,#N/A,#N/A
+1388,Jose Abreu,3392,0.07143,1B,White Sox,8/24/2018,5:10:40 PM,Standard,https://mlbcryptobaseball.com/asset/3392,,,,,8/24/2018 17:10:40,0.07143,#N/A,#N/A,#N/A,#N/A
+1389,Jed Lowrie,3446,0.12477,2B,A's,8/24/2018,5:10:56 PM,Standard,https://mlbcryptobaseball.com/asset/3446,,,,,8/24/2018 17:10:56,0.12477,#N/A,#N/A,#N/A,#N/A
+1390,Zack Greinke,3403,0.08033,P,Diamondbacks,8/24/2018,5:11:11 PM,Standard,https://mlbcryptobaseball.com/asset/3403,,,,,8/24/2018 17:11:11,0.08033,#N/A,#N/A,#N/A,#N/A
+1391,Amed Rosario,3360,0.05115,SS,Mets,8/24/2018,5:11:37 PM,Standard,https://mlbcryptobaseball.com/asset/3360,,,,,8/24/2018 17:11:37,0.05115,#N/A,#N/A,#N/A,#N/A
+1392,Orlando Arcia,3526,0.21726,SS,Brewers,8/24/2018,5:18:53 PM,Standard,https://mlbcryptobaseball.com/asset/3526,,,,,8/24/2018 17:18:53,0.21726,#N/A,#N/A,#N/A,#N/A
+1393,Anthony Rendon,3401,0.06890,3B,Nationals,8/24/2018,5:19:12 PM,Standard,https://mlbcryptobaseball.com/asset/3401,,,,,8/24/2018 17:19:12,0.06890,#N/A,#N/A,#N/A,#N/A
+1394,Yuli Gurriel,3919,0.99837,1B,Astros,8/24/2018,5:19:30 PM,Silver,https://mlbcryptobaseball.com/asset/3919,,,,,8/24/2018 17:19:30,#N/A,#N/A,0.99837,#N/A,#N/A
+1395,Seth Lugo,3390,0.05677,P,Mets,8/24/2018,5:20:17 PM,Standard,https://mlbcryptobaseball.com/asset/3390,,,,,8/24/2018 17:20:17,0.05677,#N/A,#N/A,#N/A,#N/A
+1396,J.D. Martinez,3727,0.82094,LF,Red Sox,8/24/2018,5:33:36 PM,Standard,https://mlbcryptobaseball.com/asset/3727,,,,,8/24/2018 17:33:36,0.82094,#N/A,#N/A,#N/A,#N/A
+1397,Addison Russell,3488,0.17860,SS,Cubs,8/24/2018,5:33:58 PM,Standard,https://mlbcryptobaseball.com/asset/3488,,,,,8/24/2018 17:33:58,0.17860,#N/A,#N/A,#N/A,#N/A
+1398,Ryan McMahon,3927,0.99929,1B,Rockies,8/24/2018,5:34:17 PM,Gold,https://mlbcryptobaseball.com/asset/3927,,,,,8/24/2018 17:34:17,#N/A,#N/A,#N/A,0.99929,#N/A
+1399,Melky Cabrera,3490,0.17033,RF,Indians,8/24/2018,5:34:31 PM,Standard,https://mlbcryptobaseball.com/asset/3490,,,,,8/24/2018 17:34:31,0.17033,#N/A,#N/A,#N/A,#N/A
+1400,Adam Jones,3385,0.04083,CF,Orioles,8/24/2018,5:34:49 PM,Standard,https://mlbcryptobaseball.com/asset/3385,,,,,8/24/2018 17:34:49,0.04083,#N/A,#N/A,#N/A,#N/A
+1401,Evan Longoria,3455,0.08086,3B,Giants,8/24/2018,5:53:02 PM,Standard,https://mlbcryptobaseball.com/asset/3455,,,,,8/24/2018 17:53:02,0.08086,#N/A,#N/A,#N/A,#N/A
+1402,Chase Anderson,3406,0.03949,P,Brewers,8/24/2018,5:53:20 PM,Standard,https://mlbcryptobaseball.com/asset/3406,,,,,8/24/2018 17:53:20,0.03949,#N/A,#N/A,#N/A,#N/A
+1403,Ryan Braun,3466,0.11271,LF,Brewers,8/24/2018,5:53:39 PM,Standard,https://mlbcryptobaseball.com/asset/3466,,,,,8/24/2018 17:53:39,0.11271,#N/A,#N/A,#N/A,#N/A
+1404,Matt Chapman,4029,0.99976,3B,A's,8/24/2018,7:21:38 PM,Legendary,https://mlbcryptobaseball.com/asset/4029,,,,,8/24/2018 19:21:38,#N/A,#N/A,#N/A,#N/A,0.99976
+1405,Jason Heyward,3852,0.82253,RF,Cubs,8/24/2018,8:03:31 PM,Silver,https://mlbcryptobaseball.com/asset/3852,,,,,8/24/2018 20:03:31,#N/A,#N/A,0.82253,#N/A,#N/A
+1406,Victor Reyes,3544,0.13741,LF,Tigers,8/24/2018,8:03:51 PM,Bronze,https://mlbcryptobaseball.com/asset/3544,,,,,8/24/2018 20:03:51,#N/A,0.13741,#N/A,#N/A,#N/A
+1407,T.J. McFarland,3493,0.04684,P,Diamondbacks,8/24/2018,8:04:17 PM,Standard,https://mlbcryptobaseball.com/asset/3493,,,,,8/24/2018 20:04:17,0.04684,#N/A,#N/A,#N/A,#N/A
+1408,Devon Travis,3504,0.06880,2B,Blue Jays,8/24/2018,8:04:31 PM,Standard,https://mlbcryptobaseball.com/asset/3504,,,,,8/24/2018 20:04:31,0.06880,#N/A,#N/A,#N/A,#N/A
+1409,Jacob deGrom,3540,0.14345,1B,Indians,8/24/2018,8:05:10 PM,Standard,https://mlbcryptobaseball.com/asset/3540,,,,,8/24/2018 20:05:10,0.14345,#N/A,#N/A,#N/A,#N/A
+1410,Yonder Alonso,3491,0.03920,1B,Nationals,8/24/2018,8:05:27 PM,Standard,https://mlbcryptobaseball.com/asset/3491,,,,,8/24/2018 20:05:27,0.03920,#N/A,#N/A,#N/A,#N/A
+1411,Ji-Man Choi,3500,0.04842,1B,Rays,8/24/2018,8:14:15 PM,Standard,https://mlbcryptobaseball.com/asset/3500,,,,,8/24/2018 20:14:15,0.04842,#N/A,#N/A,#N/A,#N/A
+1412,David Wright,3510,0.06872,3B,Mets,8/24/2018,8:14:30 PM,Standard,https://mlbcryptobaseball.com/asset/3510,,,,,8/24/2018 20:14:30,0.06872,#N/A,#N/A,#N/A,#N/A
+1413,Kyle Gibson,3495,0.02901,P,Twins,8/24/2018,8:22:10 PM,Standard,https://mlbcryptobaseball.com/asset/3495,,,,,8/24/2018 20:22:10,0.02901,#N/A,#N/A,#N/A,#N/A
+1414,Kyle Hendricks,3368,0.22000,P,Cubs,8/24/2018,8:22:25 PM,Standard,https://mlbcryptobaseball.com/asset/3368,,,,,8/24/2018 20:22:25,0.22000,#N/A,#N/A,#N/A,#N/A
+1415,Tony Sipp,3516,0.07035,P,Astros,8/24/2018,8:22:43 PM,Standard,https://mlbcryptobaseball.com/asset/3516,,,,,8/24/2018 20:22:43,0.07035,#N/A,#N/A,#N/A,#N/A
+1416,Dee Gordon,3501,0.04846,2B,Mariners,8/24/2018,8:22:57 PM,Standard,https://mlbcryptobaseball.com/asset/3501,,,,,8/24/2018 20:22:57,0.04846,#N/A,#N/A,#N/A,#N/A
+1417,Trevor Gott,3521,0.07520,P,Nationals,8/24/2018,8:28:30 PM,Standard,https://mlbcryptobaseball.com/asset/3521,,,,,8/24/2018 20:28:30,0.07520,#N/A,#N/A,#N/A,#N/A
+1418,Hunter Pence,3515,0.07032,LF,Giants,8/24/2018,8:28:48 PM,Standard,https://mlbcryptobaseball.com/asset/3515,,,,,8/24/2018 20:28:48,0.07032,#N/A,#N/A,#N/A,#N/A
+1419,Isiah Kiner-Falefa,3652,0.37068,3B,Rangers,8/24/2018,8:31:44 PM,Silver,https://mlbcryptobaseball.com/asset/3652,,,,,8/24/2018 20:31:44,#N/A,#N/A,0.37068,#N/A,#N/A
+1420,Bryan Holiday,4056,0.99963,C,Marlins,8/24/2018,8:32:30 PM,Legendary,https://mlbcryptobaseball.com/asset/4056,,,,,8/24/2018 20:32:30,#N/A,#N/A,#N/A,#N/A,0.99963
+1421,Justin Verlander,3666,0.39676,P,Astros,8/24/2018,8:34:39 PM,Bronze,https://mlbcryptobaseball.com/asset/3666,,,,,8/24/2018 20:34:39,#N/A,0.39676,#N/A,#N/A,#N/A
+1422,Enrique Hernandez,3547,0.11567,CF,Dodgers,8/24/2018,8:45:14 PM,Standard,https://mlbcryptobaseball.com/asset/3547,,,,,8/24/2018 20:45:14,0.11567,#N/A,#N/A,#N/A,#N/A
+1423,Gregory Polanco,3627,0.28084,RF,Pirates,8/24/2018,8:48:22 PM,Bronze,https://mlbcryptobaseball.com/asset/3627,,,,,8/24/2018 20:48:22,#N/A,0.28084,#N/A,#N/A,#N/A
+1424,Charlie Blackmon,3614,0.24847,CF,Rockies,8/24/2018,8:48:41 PM,Bronze,https://mlbcryptobaseball.com/asset/3614,,,,,8/24/2018 20:48:41,#N/A,0.24847,#N/A,#N/A,#N/A
+1425,Marcu Semien,3626,0.27890,SS,A's,8/24/2018,8:51:29 PM,Bronze,https://mlbcryptobaseball.com/asset/3626,,,,,8/24/2018 20:51:29,#N/A,0.27890,#N/A,#N/A,#N/A
+1426,Cory Knebel,3676,0.28650,P,Brewers,8/24/2018,11:09:45 PM,Silver,https://mlbcryptobaseball.com/asset/3676,,,,,8/24/2018 23:09:45,#N/A,#N/A,0.28650,#N/A,#N/A
+1427,Rhys Hoskins,3573,0.07395,LF,Phillies,8/24/2018,11:10:07 PM,Standard,https://mlbcryptobaseball.com/asset/3573,,,,,8/24/2018 23:10:07,0.07395,#N/A,#N/A,#N/A,#N/A
+1428,Adam Ottavino,3554,0.03308,P,Rockies,8/24/2018,11:10:25 PM,Standard,https://mlbcryptobaseball.com/asset/3554,,,,,8/24/2018 23:10:25,0.03308,#N/A,#N/A,#N/A,#N/A
+1429,Hunter Pence,3575,0.06726,LF,Giants,8/24/2018,11:10:39 PM,Standard,https://mlbcryptobaseball.com/asset/3575,,,,,8/24/2018 23:10:39,0.06726,#N/A,#N/A,#N/A,#N/A
+1430,Salvador Perez,3679,0.28500,C,Royals,8/24/2018,11:10:59 PM,Silver,https://mlbcryptobaseball.com/asset/3679,,,,,8/24/2018 23:10:59,#N/A,#N/A,0.28500,#N/A,#N/A
+1431,Matt Kemp,4010,0.82977,LF,Dodgers,8/24/2018,11:11:20 PM,Silver,https://mlbcryptobaseball.com/asset/4010,,,,,8/24/2018 23:11:20,#N/A,#N/A,0.82977,#N/A,#N/A
+1432,Tyler Skaggs,3588,0.09696,P,Angels,8/24/2018,11:11:42 PM,Standard,https://mlbcryptobaseball.com/asset/3588,,,,,8/24/2018 23:11:42,0.09696,#N/A,#N/A,#N/A,#N/A
+1433,Mookie Betts,50,0.99194,RF,Red Sox,8/24/2018,11:14:09 PM,Standard,https://mlbcryptobaseball.com/asset/50,,,,,8/24/2018 23:14:09,0.99194,#N/A,#N/A,#N/A,#N/A
+1434,Carlos Gomez,3560,0.03666,RF,Rays,8/24/2018,11:14:26 PM,Standard,https://mlbcryptobaseball.com/asset/3560,,,,,8/24/2018 23:14:26,0.03666,#N/A,#N/A,#N/A,#N/A
+1435,Didi Gregorious,3823,0.67591,SS,Yankees,8/24/2018,11:15:24 PM,Standard,https://mlbcryptobaseball.com/asset/3823,,,,,8/24/2018 23:15:24,0.67591,#N/A,#N/A,#N/A,#N/A
+1436,Eddie Rosario,3585,0.08424,LF,Twins,8/24/2018,11:15:38 PM,Standard,https://mlbcryptobaseball.com/asset/3585,,,,,8/24/2018 23:15:38,0.08424,#N/A,#N/A,#N/A,#N/A
+1437,Joey Votto,3875,0.69701,1B,Reds,8/24/2018,11:19:19 PM,Standard,https://mlbcryptobaseball.com/asset/3875,,,,,8/24/2018 23:19:19,0.69701,#N/A,#N/A,#N/A,#N/A

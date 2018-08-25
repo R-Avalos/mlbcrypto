@@ -3,12 +3,27 @@ library(tidyverse)
 library(lubridate)
 library(ggthemes)
 
-sales <- read.csv(file = "sales_sample_data_8232018.csv", header = TRUE, strip.white = TRUE)
+sales <- read_csv(file = "sales_sample_data_8232018.csv")
 sales$DateTime <- mdy_hms(sales$DateTime)
+sales$Team <- as.factor(sales$Team)
+sales$Position <- as.factor(sales$Position)
+sales$Type <- as.factor(sales$Type)
 summary(sales)
 summary(sales$Position)
+plot(sales$Position)
 summary(sales$ETH)
 
+bronze <- sales %>% filter(Type == "Bronze")
+summary(bronze$ETH)
+plot(bronze$DateTime, bronze$ETH)
+plot(bronze$Position)
+
+silver <- sales %>% filter(Type == "Silver")
+summary(silver$ETH)
+plot(silver$DateTime, silver$ETH)
+plot(silver$Position)
+
+  
 hist(sales$ETH, bins = seq(min(0), max(sales$ETH)))
 max(sales$ETH)
 
