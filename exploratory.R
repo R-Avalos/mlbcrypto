@@ -2,9 +2,13 @@
 library(tidyverse)
 library(lubridate)
 library(ggthemes)
+library(plm)
+library(car)
+library(gplots)
 
 sales <- read_csv(file = "sales_sample_data_8232018.csv")
 sales$DateTime <- mdy_hms(sales$DateTime)
+sales$Date <- mdy(sales$Date)
 sales$Team <- as.factor(sales$Team)
 sales$Position <- as.factor(sales$Position)
 sales$Type <- as.factor(sales$Type)
@@ -14,14 +18,30 @@ plot(sales$Position)
 plot(sales$DateTime, sales$ETH)
 summary(sales$ETH)
 
+# Overview by team
+scatterplot(ETH~Date|Team, boxplots=FALSE, smooth=TRUE, reg.line=FALSE, data=sales)
+plotmeans(ETH ~ Team, main="Heterogeineity across teams", data=sales)
+
+
+
+
+
+positionPlot <- ggplot(sales, aes(x = Position)) +
+  geom_bar(stat = "count", fill = "dodger blue") +
+  ggtitle(paste0("Sample of Sales, ", length(sales$SerialNumber), " Observations")) +
+  theme_tufte() +
+  coord_flip()
+positionPlot
+
+
+
+
 saleBP <- ggplot(sales, aes(x = Team, y = ETH)) +
   geom_boxplot(fill = "dodger blue") +
   theme_tufte() +
   stat_summary(fun.y=mean, geom="point", shape=3, size=2) +
   coord_flip()
 saleBP 
-
-
 
 saleBPbreakdown <- ggplot(sales, aes(x = Team, y = ETH, fill = Type)) +
   geom_boxplot() +
