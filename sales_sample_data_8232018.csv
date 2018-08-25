@@ -10,7 +10,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 9,Nomar Mazara,1409,0.02472,RF,Rangers,8/16/18,5:52:02 PM,Standard,https://mlbcryptobaseball.com/asset/1409,Fly Ball (Outfielder),Midnight,#N/A,9 Strikeout Game,8/16/2018 17:52:02,0.02472,#N/A,#N/A,#N/A,#N/A
 10,Lewis Brinson,1500,0.00500,CF,Marlins,8/16/18,6:02:45 PM,Standard,https://mlbcryptobaseball.com/asset/1500,Groundball,Midnight,#N/A,Shutout,8/16/2018 18:02:45,0.00500,#N/A,#N/A,#N/A,#N/A
 11,Joey Votto,1808,0.24934,1B,Reds,8/16/18,6:13:35 PM,Standard,https://mlbcryptobaseball.com/asset/1808,Load Position,#N/A,Wood Bat w/ Grip,5 RBI Game,8/16/2018 18:13:35,0.24934,#N/A,#N/A,#N/A,#N/A
-12,Matt Joyce,1533,0.03106,LF,A's,8/16/18,6:24:31 PM,Standard,https://mlbcryptobaseball.com/asset/1533,Fly Ball (Outfielder),Midnight,#N/A,5 Run Game,8/16/2018 18:24:31,0.03106,#N/A,#N/A,#N/A,#N/A
+12,Matt Joyce,1533,0.03106,LF,Athletics,8/16/18,6:24:31 PM,Standard,https://mlbcryptobaseball.com/asset/1533,Fly Ball (Outfielder),Midnight,#N/A,5 Run Game,8/16/2018 18:24:31,0.03106,#N/A,#N/A,#N/A,#N/A
 13,Ricardo Rodriguez,1499,0.00253,P,Rangers,8/16/18,6:35:33 PM,Standard,https://mlbcryptobaseball.com/asset/1499,Release,Classic,#N/A,Walk Off,8/16/2018 18:35:33,0.00253,#N/A,#N/A,#N/A,#N/A
 14,Yoan Moncado,1509,0.00898,2B,White Sox,8/16/18,6:46:43 PM,Standard,https://mlbcryptobaseball.com/asset/1509,Ready,Midnight,#N/A,100 mph Pitch,8/16/2018 18:46:43,0.00898,#N/A,#N/A,#N/A,#N/A
 15,Dylan Bundy,1502,0.00193,P,Orioles,8/16/18,6:57:59 PM,Standard,https://mlbcryptobaseball.com/asset/1502,Release,Midnight,#N/A,Hit for the Cycle,8/16/2018 18:57:59,0.00193,#N/A,#N/A,#N/A,#N/A
@@ -22,7 +22,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 21,Justin Turner,1814,0.24964,3B ,Dodgers,8/16/18,8:07:59 PM,Standard,https://mlbcryptobaseball.com/asset/1814,Sidearm,Midnight,#N/A,No Hitter,8/16/2018 20:07:59,0.24964,#N/A,#N/A,#N/A,#N/A
 22,Kris Bryant,1815,0.24964,3B,Cubs,8/16/18,8:20:04 PM,Gold,https://mlbcryptobaseball.com/asset/1815,Follow Through,#N/A,Wood Bat w/ Walnut Finish,5 Run Game,8/16/2018 20:20:04,#N/A,#N/A,#N/A,0.24964,#N/A
 23,Eddie Rosario,1552,0.03036,LF,Twins,8/16/18,8:32:16 PM,Standard,https://mlbcryptobaseball.com/asset/1552,Stretch and Fire,#N/A,Wood Bat w/ Grip,Immaculate Inning,8/16/2018 20:32:16,0.03036,#N/A,#N/A,#N/A,#N/A
-24,Dustin Fowler,1773,0.18479,CF,A's,8/16/18,8:44:35 PM,Bronze,https://mlbcryptobaseball.com/asset/1773,Groundball,Midnight,#N/A,Hit for the Cycle,8/16/2018 20:44:35,#N/A,0.18479,#N/A,#N/A,#N/A
+24,Dustin Fowler,1773,0.18479,CF,Athletics,8/16/18,8:44:35 PM,Bronze,https://mlbcryptobaseball.com/asset/1773,Groundball,Midnight,#N/A,Hit for the Cycle,8/16/2018 20:44:35,#N/A,0.18479,#N/A,#N/A,#N/A
 25,Edwin Encarnacion,1757,0.17427,DH,Indians,8/16/18,8:57:02 PM,Standard,https://mlbcryptobaseball.com/asset/1757,Batter-runner,#N/A,Silver,Double,8/16/2018 20:57:02,0.17427,#N/A,#N/A,#N/A,#N/A
 26,Sam Travis,1729,0.16123,LF,Red Sox,8/16/18,9:09:36 PM,Standard,https://mlbcryptobaseball.com/asset/1729,Follow Through,#N/A,Wood Bat w/ Walnut Finish,Double Play,8/16/2018 21:09:36,0.16123,#N/A,#N/A,#N/A,#N/A
 27,Joey Gallo,1709,0.15083,LF,Rangers,8/16/18,9:22:18 PM,Standard,https://mlbcryptobaseball.com/asset/1709,Load Position,#N/A,Wood Bat w/ Grip,Grand Slam,8/16/2018 21:22:18,0.15083,#N/A,#N/A,#N/A,#N/A
@@ -46,7 +46,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 45,Raimel Tapia,1581,0.02995,CF,Rockies,8/17/18,1:04:58 AM,Standard,https://mlbcryptobaseball.com/asset/1581,Groundball,Standard,,Triple,8/17/2018 1:04:58,0.02995,#N/A,#N/A,#N/A,#N/A
 46,Mason Williams,1538,0.00000,RF,Reds,8/17/18,1:05:37 AM,Standard,https://mlbcryptobaseball.com/asset/1538,Fly Ball (Outfielder),Classic,,4 Home Run Game (Single Hitter),8/17/2018 1:05:37,0.00000,#N/A,#N/A,#N/A,#N/A
 47,Michael Brantley,1577,0.02770,LF,Indians,8/17/18,1:06:17 AM,Standard,https://mlbcryptobaseball.com/asset/1577,Load Position,,WooD Bat w/ Black Finish,Grand Slam,8/17/2018 1:06:17,0.02770,#N/A,#N/A,#N/A,#N/A
-48,Stephen Piscotty,1593,0.04459,RF,A's,8/17/18,1:06:56 AM,Standard,https://mlbcryptobaseball.com/asset/1593,Stretch and Fire,,Wood Bat w/ Walnut Finish,No Hitter,8/17/2018 1:06:56,0.04459,#N/A,#N/A,#N/A,#N/A
+48,Stephen Piscotty,1593,0.04459,RF,Athletics,8/17/18,1:06:56 AM,Standard,https://mlbcryptobaseball.com/asset/1593,Stretch and Fire,,Wood Bat w/ Walnut Finish,No Hitter,8/17/2018 1:06:56,0.04459,#N/A,#N/A,#N/A,#N/A
 49,Whit Merrifield,1586,0.03254,2B,Royals,8/17/18,1:07:37 AM,Standard,https://mlbcryptobaseball.com/asset/1586,Step Behind,Classic,,9 Hit Game,8/17/2018 1:07:37,0.03254,#N/A,#N/A,#N/A,#N/A
 50,Michael Conforto,1627,0.07011,CF,Mets,8/17/18,1:08:17 AM,Standard,https://mlbcryptobaseball.com/asset/1627,Groundball,Team USA,,Triple,8/17/2018 1:08:17,0.07011,#N/A,#N/A,#N/A,#N/A
 51,Jonathan Schoop,1643,0.11321,2B,Brewers,8/17/18,1:08:58 AM,Bronze,https://mlbcryptobaseball.com/asset/1643,Ready,Classic,,Hit by Pitch,8/17/2018 1:08:58,#N/A,0.11321,#N/A,#N/A,#N/A
@@ -78,7 +78,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 77,Francisco Cervelli,1594,0.00695,C,Pirates,8/17/18,1:29:20 AM,Standard,https://mlbcryptobaseball.com/asset/1594,Fly Ball (Catcher),Classic,,Shutout,8/17/2018 1:29:20,0.00695,#N/A,#N/A,#N/A,#N/A
 78,Matt Duffy,1617,0.02379,3B,Rays,8/17/18,1:30:14 AM,Bronze,https://mlbcryptobaseball.com/asset/1617,Stretch and Fire,,Wood Bat w/ Grip,Immaculate Inning,8/17/2018 1:30:14,#N/A,0.02379,#N/A,#N/A,#N/A
 79,Luke Weaver,1584,0.00000,P,Cardinals,8/17/18,1:31:08 AM,Standard,https://mlbcryptobaseball.com/asset/1584,Sweet Spot,,Gold,4 Home Run Game (Single Hitter),8/17/2018 1:31:08,0.00000,#N/A,#N/A,#N/A,#N/A
-80,Mark Canha,1623,0.03131,P,A's,8/17/18,1:32:02 AM,Standard,https://mlbcryptobaseball.com/asset/1623,Batter-runner,,Wood Bat w/ Black Finish,Triple,8/17/2018 1:32:02,0.03131,#N/A,#N/A,#N/A,#N/A
+80,Mark Canha,1623,0.03131,P,Athletics,8/17/18,1:32:02 AM,Standard,https://mlbcryptobaseball.com/asset/1623,Batter-runner,,Wood Bat w/ Black Finish,Triple,8/17/2018 1:32:02,0.03131,#N/A,#N/A,#N/A,#N/A
 81,Nicholas Castellanos,1601,0.00904,RF,Tigers,8/17/18,1:32:58 AM,Standard,https://mlbcryptobaseball.com/asset/1601,Follow Through,,Wood Bat w/ Grip,Triple,8/17/2018 1:32:58,0.00904,#N/A,#N/A,#N/A,#N/A
 82,Jake Faria,1587,0.00000,P,Rays,8/17/18,1:33:53 AM,Standard,https://mlbcryptobaseball.com/asset/1587,Windup,Midnight,,Hit for the Cycle,8/17/2018 1:33:53,0.00000,#N/A,#N/A,#N/A,#N/A
 83,Eric Hosmer,1596,0.00333,1B,Padres,8/17/18,1:34:50 AM,Standard,https://mlbcryptobaseball.com/asset/1596,Sidearm,Standard,,5 RBI Game,8/17/2018 1:34:50,0.00333,#N/A,#N/A,#N/A,#N/A
@@ -198,20 +198,20 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 197,Cody Bellinger,587,0.25918,1B,Dodgers,8/17/2018,6:07:16 PM,Standard,https://mlbcryptobaseball.com/asset/587,,,,,8/17/2018 18:07:16,0.25918,#N/A,#N/A,#N/A,#N/A
 198,Mitch Moreland,2034,0.26507,1B,Red Sox,8/17/2018,6:07:44 PM,Standard,https://mlbcryptobaseball.com/asset/2034,,,,,8/17/2018 18:07:44,0.26507,#N/A,#N/A,#N/A,#N/A
 199,Paul Goldschmidt,2035,0.26523,1B,Diamondbacks,8/17/2018,6:08:18 PM,Standard,https://mlbcryptobaseball.com/asset/2035,,,,,8/17/2018 18:08:18,0.26523,#N/A,#N/A,#N/A,#N/A
-200,Danny Coulombe,1803,0.04097,P,A's,8/17/2018,6:08:39 PM,Standard,https://mlbcryptobaseball.com/asset/1803,,,,,8/17/2018 18:08:39,0.04097,#N/A,#N/A,#N/A,#N/A
+200,Danny Coulombe,1803,0.04097,P,Athletics,8/17/2018,6:08:39 PM,Standard,https://mlbcryptobaseball.com/asset/1803,,,,,8/17/2018 18:08:39,0.04097,#N/A,#N/A,#N/A,#N/A
 201,Freddy Galvis,1806,0.04012,SS,Padres,8/17/2018,6:11:38 PM,Standard,https://mlbcryptobaseball.com/asset/1806,,,,,8/17/2018 18:11:38,0.04012,#N/A,#N/A,#N/A,#N/A
 202,Jake Arrieta,1720,0.32204,P,Phillies,8/17/2018,6:12:13 PM,Standard,https://mlbcryptobaseball.com/asset/1720,,,,,8/17/2018 18:12:13,0.32204,#N/A,#N/A,#N/A,#N/A
 203,Yoenis Cespedes,1387,0.34213,LF,Mets,8/17/2018,6:14:38 PM,Standard,https://mlbcryptobaseball.com/asset/1387,,,,,8/17/2018 18:14:38,0.34213,#N/A,#N/A,#N/A,#N/A
 204,Dexter Fowler,2039,0.25612,RF,Cardinals,8/17/2018,6:19:02 PM,Bronze,https://mlbcryptobaseball.com/asset/2039,Fly Ball (Outfielder),Team USA,,4 Home Run Game (Single Hitter),8/17/2018 18:19:02,#N/A,0.25612,#N/A,#N/A,#N/A
 205,Hunter Dozier,2041,0.25617,1B,Royals,8/17/2018,6:19:49 PM,Gold,https://mlbcryptobaseball.com/asset/2041,Ready,Standard,,Hit by Pitch,8/17/2018 18:19:49,#N/A,#N/A,#N/A,0.25617,#N/A
-206,Khris Davis,1928,0.19189,LF,A's,8/17/2018,6:21:42 PM,Standard,https://mlbcryptobaseball.com/asset/1928,,,,,8/17/2018 18:21:42,0.19189,#N/A,#N/A,#N/A,#N/A
+206,Khris Davis,1928,0.19189,LF,Athletics,8/17/2018,6:21:42 PM,Standard,https://mlbcryptobaseball.com/asset/1928,,,,,8/17/2018 18:21:42,0.19189,#N/A,#N/A,#N/A,#N/A
 207,Dylan Bundy,515,0.08000,P,Orioles,8/17/2018,6:23:52 PM,Standard,https://mlbcryptobaseball.com/asset/515,,,,,8/17/2018 18:23:52,0.08000,#N/A,#N/A,#N/A,#N/A
 208,Joe Mauer,1162,0.30000,1B,Twins,8/17/2018,6:24:23 PM,Standard,https://mlbcryptobaseball.com/asset/1162,,,,,8/17/2018 18:24:23,0.30000,#N/A,#N/A,#N/A,#N/A
 209,Trey Mancini,1112,0.20150,LF,Orioles,8/17/2018,6:24:40 PM,Standard,https://mlbcryptobaseball.com/asset/1112,,,,,8/17/2018 18:24:40,0.20150,#N/A,#N/A,#N/A,#N/A
 210,Renato Nunez,305,0.13000,3B,Orioles,8/17/2018,6:25:25 PM,Standard,https://mlbcryptobaseball.com/asset/305,Ready,Classic,,Walk Off,8/17/2018 18:25:25,0.13000,#N/A,#N/A,#N/A,#N/A
 211,Adrian Beltre,512,0.25000,3B,Rangers,8/17/2018,6:25:26 PM,Standard,https://mlbcryptobaseball.com/asset/512,,,,,8/17/2018 18:25:26,0.25000,#N/A,#N/A,#N/A,#N/A
 212,Jurickson Profar,1829,0.06361,SS,Rangers,8/17/2018,6:25:50 PM,Standard,https://mlbcryptobaseball.com/asset/1829,,,,,8/17/2018 18:25:50,0.06361,#N/A,#N/A,#N/A,#N/A
-213,A.J. Pollock,533,0.35663,CF,Diamondback,8/17/2018,6:26:14 PM,Standard,https://mlbcryptobaseball.com/asset/533,,,,,8/17/2018 18:26:14,0.35663,#N/A,#N/A,#N/A,#N/A
+213,A.J. Pollock,533,0.35663,CF,Diamondbacks,8/17/2018,6:26:14 PM,Standard,https://mlbcryptobaseball.com/asset/533,,,,,8/17/2018 18:26:14,0.35663,#N/A,#N/A,#N/A,#N/A
 214,Javier Baez,648,0.89259,2B,Cubs,8/17/2018,6:26:32 PM,Standard,https://mlbcryptobaseball.com/asset/648,,,,,8/17/2018 18:26:32,0.89259,#N/A,#N/A,#N/A,#N/A
 215,Jameson Taillon,1234,0.06700,P,Pirates,8/17/2018,6:27:17 PM,Standard,https://mlbcryptobaseball.com/asset/1234,,,,,8/17/2018 18:27:17,0.06700,#N/A,#N/A,#N/A,#N/A
 216,Corey Dickerson,1834,0.06868,LF,Pirates,8/17/2018,6:27:40 PM,Standard,https://mlbcryptobaseball.com/asset/1834,,,,,8/17/2018 18:27:40,0.06868,#N/A,#N/A,#N/A,#N/A
@@ -229,7 +229,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 228,Glenn Sparkman,1706,0.03533,P,Royals,8/17/2018,6:47:59 PM,Standard,https://mlbcryptobaseball.com/asset/1706,,,,,8/17/2018 18:47:59,0.03533,#N/A,#N/A,#N/A,#N/A
 229,Sam Gaviglio,1801,0.02828,P,Blue Jays,8/17/2018,6:48:15 PM,Standard,https://mlbcryptobaseball.com/asset/1801,,,,,8/17/2018 18:48:15,0.02828,#N/A,#N/A,#N/A,#N/A
 230,Jose Reyes,2052,0.25565,3B,Mets,8/17/2018,6:48:34 PM,Bronze,https://mlbcryptobaseball.com/asset/2052,,,,,8/17/2018 18:48:34,#N/A,0.25565,#N/A,#N/A,#N/A
-231,Khris Davis,2048,0.25565,LF,A's,8/17/2018,6:48:51 PM,Standard,https://mlbcryptobaseball.com/asset/2048,,,,,8/17/2018 18:48:51,0.25565,#N/A,#N/A,#N/A,#N/A
+231,Khris Davis,2048,0.25565,LF,Athletics,8/17/2018,6:48:51 PM,Standard,https://mlbcryptobaseball.com/asset/2048,,,,,8/17/2018 18:48:51,0.25565,#N/A,#N/A,#N/A,#N/A
 232,Mychal Givens,1802,0.02776,P,Orioles,8/17/2018,6:52:05 PM,Standard,https://mlbcryptobaseball.com/asset/1802,,,,,8/17/2018 18:52:05,0.02776,#N/A,#N/A,#N/A,#N/A
 233,Luke Weaver,1824,0.05385,P,Cardinals,8/17/2018,6:54:09 PM,Standard,https://mlbcryptobaseball.com/asset/1824,,,#N/A,,8/17/2018 18:54:09,0.05385,#N/A,#N/A,#N/A,#N/A
 234,Tyson Ross,1074,0.35000,P,Cardinals,8/17/2018,6:54:23 PM,Silver,https://mlbcryptobaseball.com/asset/1074,Follow Through,,Iridescent,100 mph Pitch,8/17/2018 18:54:23,#N/A,#N/A,0.35000,#N/A,#N/A
@@ -294,7 +294,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 293,Wade Miley,1793,0.12000,P,Brewers,8/17/2018,8:15:24 PM,Standard,https://mlbcryptobaseball.com/asset/1793,,,,,8/17/2018 20:15:24,0.12000,#N/A,#N/A,#N/A,#N/A
 294,Chris Flexen,2100,0.24957,P,Mets,8/17/2018,8:20:20 PM,Silver,https://mlbcryptobaseball.com/asset/2100,,,,,8/17/2018 20:20:20,#N/A,#N/A,0.24957,#N/A,#N/A
 295,Freddie Freeman,2098,0.24957,1B,Braves,8/17/2018,8:21:27 PM,Standard,https://mlbcryptobaseball.com/asset/2098,,,,,8/17/2018 20:21:27,0.24957,#N/A,#N/A,#N/A,#N/A
-296,dad,1413,0.70000,2B,A's,8/17/2018,8:26:43 PM,Bronze,https://mlbcryptobaseball.com/asset/1413,,,,,8/17/2018 20:26:43,#N/A,0.70000,#N/A,#N/A,#N/A
+296,dad,1413,0.70000,2B,Athletics,8/17/2018,8:26:43 PM,Bronze,https://mlbcryptobaseball.com/asset/1413,,,,,8/17/2018 20:26:43,#N/A,0.70000,#N/A,#N/A,#N/A
 297,Max Fried,1960,0.18398,P,Braves,8/17/2018,8:36:49 PM,Bronze,https://mlbcryptobaseball.com/asset/1960,,,,,8/17/2018 20:36:49,#N/A,0.18398,#N/A,#N/A,#N/A
 298,Pablo Sandoval,1512,0.70000,3B,Giants,8/17/2018,8:42:48 PM,Silver,https://mlbcryptobaseball.com/asset/1512,,,,,8/17/2018 20:42:48,#N/A,#N/A,0.70000,#N/A,#N/A
 299,Rosell Herrera,2011,0.22330,RF,Royals,8/17/2018,8:48:39 PM,Bronze,https://mlbcryptobaseball.com/asset/2011,,,,,8/17/2018 20:48:39,#N/A,0.22330,#N/A,#N/A,#N/A
@@ -315,7 +315,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 314,Kyle Gibson,445,0.18553,P,Twins,8/17/2018,9:22:38 PM,Standard,https://mlbcryptobaseball.com/asset/445,,,,,8/17/2018 21:22:38,0.18553,#N/A,#N/A,#N/A,#N/A
 315,Orlando Arcia,1948,0.14727,SS,Brewers,8/17/2018,9:23:25 PM,Standard,https://mlbcryptobaseball.com/asset/1948,,,,,8/17/2018 21:23:25,0.14727,#N/A,#N/A,#N/A,#N/A
 316,Yan Gomes,1877,0.13144,C,Indians,8/17/2018,9:26:11 PM,Standard,https://mlbcryptobaseball.com/asset/1877,,,,,8/17/2018 21:26:11,0.13144,#N/A,#N/A,#N/A,#N/A
-317,Sean Manaea,1893,0.14180,P,A's,8/17/2018,9:26:28 PM,Standard,https://mlbcryptobaseball.com/asset/1893,,,,,8/17/2018 21:26:28,0.14180,#N/A,#N/A,#N/A,#N/A
+317,Sean Manaea,1893,0.14180,P,Athletics,8/17/2018,9:26:28 PM,Standard,https://mlbcryptobaseball.com/asset/1893,,,,,8/17/2018 21:26:28,0.14180,#N/A,#N/A,#N/A,#N/A
 318,Mitch Moreland,2034,0.37041,1B,Red Sox,8/17/2018,9:29:17 PM,Standard,https://mlbcryptobaseball.com/asset/2034,,,,,8/17/2018 21:29:17,0.37041,#N/A,#N/A,#N/A,#N/A
 319,Mark Trumbo,1892,0.13834,DH,Orioles,8/17/2018,9:30:53 PM,Standard,https://mlbcryptobaseball.com/asset/1892,,,,,8/17/2018 21:30:53,0.13834,#N/A,#N/A,#N/A,#N/A
 320,Devon Travis,1861,0.06266,2B,Blue Jays,8/17/2018,9:31:21 PM,Standard,https://mlbcryptobaseball.com/asset/1861,,,,,8/17/2018 21:31:21,0.06266,#N/A,#N/A,#N/A,#N/A
@@ -326,7 +326,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 325,Starling Marte,1929,0.15742,CF,Pirates,8/17/2018,9:39:28 PM,Standard,https://mlbcryptobaseball.com/asset/1929,,,,,8/17/2018 21:39:28,0.15742,#N/A,#N/A,#N/A,#N/A
 326,Yoan Moncada,1904,0.14339,2B,White Sox,8/17/2018,9:45:57 PM,Standard,https://mlbcryptobaseball.com/asset/1904,,,,,8/17/2018 21:45:57,0.14339,#N/A,#N/A,#N/A,#N/A
 327,Josh Bell,1959,0.17192,1B,Pirates,8/17/2018,9:47:50 PM,Standard,https://mlbcryptobaseball.com/asset/1959,,,,,8/17/2018 21:47:50,0.17192,#N/A,#N/A,#N/A,#N/A
-328,Khris Davis,2126,0.24962,LF,A's,8/17/2018,9:48:17 PM,Standard,https://mlbcryptobaseball.com/asset/2126,,,,,8/17/2018 21:48:17,0.24962,#N/A,#N/A,#N/A,#N/A
+328,Khris Davis,2126,0.24962,LF,Athletics,8/17/2018,9:48:17 PM,Standard,https://mlbcryptobaseball.com/asset/2126,,,,,8/17/2018 21:48:17,0.24962,#N/A,#N/A,#N/A,#N/A
 329,Matt Duffy,1922,0.15088,3B,Rays,8/17/2018,9:48:33 PM,Standard,https://mlbcryptobaseball.com/asset/1922,,,,,8/17/2018 21:48:33,0.15088,#N/A,#N/A,#N/A,#N/A
 330,"Ronald Acuna, Jr.",2128,0.24972,LF,Braves,8/17/2018,9:48:53 PM,Standard,https://mlbcryptobaseball.com/asset/2128,,,,,8/17/2018 21:48:53,0.24972,#N/A,#N/A,#N/A,#N/A
 331,Marwin Gonzalez,1543,0.17624,LF,Astros,8/17/2018,9:55:58 PM,Standard,https://mlbcryptobaseball.com/asset/1543,,,,,8/17/2018 21:55:58,0.17624,#N/A,#N/A,#N/A,#N/A
@@ -472,7 +472,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 471,Trevor Oaks,2119,0.06482,P,Royals,8/18/2018,4:52:17 PM,Standard,https://mlbcryptobaseball.com/asset/2119,,,,,8/18/2018 16:52:17,0.06482,#N/A,#N/A,#N/A,#N/A
 472,Charlie Morton,2028,0.25177,P,Astros,8/18/2018,4:52:32 PM,Standard,https://mlbcryptobaseball.com/asset/2028,,,,,8/18/2018 16:52:32,0.25177,#N/A,#N/A,#N/A,#N/A
 473,Scooter Gennet,2161,0.14920,2B,Reds,8/18/2018,4:52:49 PM,Standard,https://mlbcryptobaseball.com/asset/2161,,,,,8/18/2018 16:52:49,0.14920,#N/A,#N/A,#N/A,#N/A
-474,Danny Coulombe,1803,0.08372,P,A's,8/18/2018,4:53:17 PM,Standard,https://mlbcryptobaseball.com/asset/1803,,,,,8/18/2018 16:53:17,0.08372,#N/A,#N/A,#N/A,#N/A
+474,Danny Coulombe,1803,0.08372,P,Athletics,8/18/2018,4:53:17 PM,Standard,https://mlbcryptobaseball.com/asset/1803,,,,,8/18/2018 16:53:17,0.08372,#N/A,#N/A,#N/A,#N/A
 475,Shohei Ohtani,2268,1.27337,P,Angels,8/18/2018,4:55:33 PM,Standard,https://mlbcryptobaseball.com/asset/2268,,,,,8/18/2018 16:55:33,1.27337,#N/A,#N/A,#N/A,#N/A
 476,Freddie Freeman,1025,0.42000,1B,Braves,8/18/2018,4:56:32 PM,Standard,https://mlbcryptobaseball.com/asset/1025,,,,,8/18/2018 16:56:32,0.42000,#N/A,#N/A,#N/A,#N/A
 477,Joe Jimenez,2134,0.05150,P,Tigers,8/18/2018,5:05:19 PM,Standard,https://mlbcryptobaseball.com/asset/2134,,,,,8/18/2018 17:05:19,0.05150,#N/A,#N/A,#N/A,#N/A
@@ -543,11 +543,11 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 542,Chris Sale,2412,0.58104,P,Red Sox,8/19/2018,11:05:42 AM,Standard,https://mlbcryptobaseball.com/asset/2412,Release,Midnight,#N/A,Home Run,8/19/2018 11:05:42,0.58104,#N/A,#N/A,#N/A,#N/A
 543,Mitch Moreland,979,0.60000,1B,Red Sox,8/19/2018,11:06:01 AM,Standard,https://mlbcryptobaseball.com/asset/979,Stretch and Fire,#N/A,Wood,5 RBI Game,8/19/2018 11:06:01,0.60000,#N/A,#N/A,#N/A,#N/A
 544,Tzu-Wei Lin,2172,0.25242,SS,Red Sox,8/19/2018,11:06:16 AM,Standard,https://mlbcryptobaseball.com/asset/2172,Pop Fly,Standard,#N/A,Shutout,8/19/2018 11:06:16,0.25242,#N/A,#N/A,#N/A,#N/A
-545,Sean Manea,2336,0.26355,P,A's,8/19/2018,11:14:26 AM,Standard,https://mlbcryptobaseball.com/asset/2336,Windup,Standard,#N/A,100 mph Pitch,8/19/2018 11:14:26,0.26355,#N/A,#N/A,#N/A,#N/A
-546,Lou Trivino,2366,0.38774,P,A's,8/19/2018,11:14:41 AM,Bronze,https://mlbcryptobaseball.com/asset/2366,Windup,Team USA,#N/A,Hit for the Cycle,8/19/2018 11:14:41,#N/A,0.38774,#N/A,#N/A,#N/A
+545,Sean Manea,2336,0.26355,P,Athletics,8/19/2018,11:14:26 AM,Standard,https://mlbcryptobaseball.com/asset/2336,Windup,Standard,#N/A,100 mph Pitch,8/19/2018 11:14:26,0.26355,#N/A,#N/A,#N/A,#N/A
+546,Lou Trivino,2366,0.38774,P,Athletics,8/19/2018,11:14:41 AM,Bronze,https://mlbcryptobaseball.com/asset/2366,Windup,Team USA,#N/A,Hit for the Cycle,8/19/2018 11:14:41,#N/A,0.38774,#N/A,#N/A,#N/A
 547,Nich Ahmed,2323,0.19927,SS,Diamondbacks,8/19/2018,11:14:57 AM,Standard,https://mlbcryptobaseball.com/asset/2323,Long Hop,Midnight,#N/A,100 mph Pitch,8/19/2018 11:14:57,0.19927,#N/A,#N/A,#N/A,#N/A
 548,Ehire Adrianza,2325,0.19961,SS,Twins,8/19/2018,11:15:12 AM,Standard,https://mlbcryptobaseball.com/asset/2325,Pop Fly,Midnight,#N/A,Hit by Pitch,8/19/2018 11:15:12,0.19961,#N/A,#N/A,#N/A,#N/A
-549,Matt Olson,2396,0.51133,1B,A's,8/19/2018,11:16:39 AM,Standard,https://mlbcryptobaseball.com/asset/2396,Follow Through,#N/A,Wood Bat w/ Black Finish,Shutout,8/19/2018 11:16:39,0.51133,#N/A,#N/A,#N/A,#N/A
+549,Matt Olson,2396,0.51133,1B,Athletics,8/19/2018,11:16:39 AM,Standard,https://mlbcryptobaseball.com/asset/2396,Follow Through,#N/A,Wood Bat w/ Black Finish,Shutout,8/19/2018 11:16:39,0.51133,#N/A,#N/A,#N/A,#N/A
 550,Giancarlo Stanton,1336,0.99645,LF,Yankees,8/19/2018,11:29:43 AM,Standard,https://mlbcryptobaseball.com/asset/1336,Running Catch,Midnight,#N/A,Hit by Pitch,8/19/2018 11:29:43,0.99645,#N/A,#N/A,#N/A,#N/A
 551,Ronald Acuna Jr.,2518,0.99906,LF,Braves,8/19/2018,11:35:35 AM,Silver,https://mlbcryptobaseball.com/asset/2518,Load Position,#N/A,Wood Bat w/ Grip,Double Play,8/19/2018 11:35:35,#N/A,#N/A,0.99906,#N/A,#N/A
 552,Jeff Hoffman,2006,0.24012,P,Rockies,8/19/2018,11:42:39 AM,Bronze,https://mlbcryptobaseball.com/asset/2006,Stride,Standard,#N/A,Perfect Game,8/19/2018 11:42:39,#N/A,0.24012,#N/A,#N/A,#N/A
@@ -609,7 +609,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 608,Wilmer Flores,2460,0.29397,1B,Mets,8/20/2018,10:06:13 AM,Standard,https://mlbcryptobaseball.com/asset/2460,Stretch and Fire,#N/A,Silver,100 mph Pitch,8/20/2018 10:06:13,0.29397,#N/A,#N/A,#N/A,#N/A
 609,Ken Giles,2454,0.27245,P,Blue Jays,8/20/2018,10:06:27 AM,Silver,https://mlbcryptobaseball.com/asset/2454,Stride,Standard,#N/A,9 Strikeout Game,8/20/2018 10:06:27,#N/A,#N/A,0.27245,#N/A,#N/A
 610,Yadier Molina,2507,0.50161,C,Cardinals,8/20/2018,10:06:42 AM,Standard,https://mlbcryptobaseball.com/asset/2507,Follow Through,#N/A,Silver,5 RBI Game,8/20/2018 10:06:42,0.50161,#N/A,#N/A,#N/A,#N/A
-611,Mark Canha,2426,0.14912,CF,A's,8/20/2018,10:15:08 AM,Standard,https://mlbcryptobaseball.com/asset/2426,Groundball,Team USA,#N/A,Shutout,8/20/2018 10:15:08,0.14912,#N/A,#N/A,#N/A,#N/A
+611,Mark Canha,2426,0.14912,CF,Athletics,8/20/2018,10:15:08 AM,Standard,https://mlbcryptobaseball.com/asset/2426,Groundball,Team USA,#N/A,Shutout,8/20/2018 10:15:08,0.14912,#N/A,#N/A,#N/A,#N/A
 612,Yasmani Grandal,2437,0.18487,C,Dodgers,8/20/2018,10:18:03 AM,Standard,https://mlbcryptobaseball.com/asset/2437,Fly Ball (Catcher),Team USA,#N/A,Home Run Distance (495 ft.),8/20/2018 10:18:03,0.18487,#N/A,#N/A,#N/A,#N/A
 613,Mitch Moreland,2262,0.85000,1B,Red Sox,8/20/2018,10:18:23 AM,Bronze,https://mlbcryptobaseball.com/asset/2262,Sidearm,Midnight,#N/A,Immaculate Inning,8/20/2018 10:18:23,#N/A,0.85000,#N/A,#N/A,#N/A
 614,Chris Taylor,2467,0.30194,SS,Dodgers,8/20/2018,10:21:47 AM,Bronze,https://mlbcryptobaseball.com/asset/2467,Follow Through,#N/A,Wood Bat w/ Grip,Walk Off,8/20/2018 10:21:47,#N/A,0.30194,#N/A,#N/A,#N/A
@@ -641,7 +641,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 640,Carlos Gomez,2420,0.04492,RF,Rays,8/20/2018,10:38:42 AM,Standard,https://mlbcryptobaseball.com/asset/2420,Groundball,Classic,#N/A,Shutout,8/20/2018 10:38:42,0.04492,#N/A,#N/A,#N/A,#N/A
 641,Aaron Judge,2649,0.99846,RF,Yankees,8/20/2018,10:39:49 AM,Standard,https://mlbcryptobaseball.com/asset/2649,Sweet Spot,#N/A,Wood Bat w/ Walnut Finish,9 Strikeout Game,8/20/2018 10:39:49,0.99846,#N/A,#N/A,#N/A,#N/A
 642,Justin Turner,2497,0.36627,3B,Dodgers,8/20/2018,10:47:03 AM,Standard,https://mlbcryptobaseball.com/asset/2497,Crow Hop,Team USA,#N/A,9 Hit Game,8/20/2018 10:47:03,0.36627,#N/A,#N/A,#N/A,#N/A
-643,Khris Davis,2486,0.32118,LF,A's,8/20/2018,10:47:16 AM,Standard,https://mlbcryptobaseball.com/asset/2486,Groundball,Midnight,#N/A,Hit by Pitch,8/20/2018 10:47:16,0.32118,#N/A,#N/A,#N/A,#N/A
+643,Khris Davis,2486,0.32118,LF,Athletics,8/20/2018,10:47:16 AM,Standard,https://mlbcryptobaseball.com/asset/2486,Groundball,Midnight,#N/A,Hit by Pitch,8/20/2018 10:47:16,0.32118,#N/A,#N/A,#N/A,#N/A
 644,Charlie Blackmon,2474,0.25571,CF,Rockies,8/20/2018,10:47:51 AM,Standard,https://mlbcryptobaseball.com/asset/2474,Fly Ball (Outfielder),Standard,#N/A,Perfect Game,8/20/2018 10:47:51,0.25571,#N/A,#N/A,#N/A,#N/A
 645,Eddie Rosario,2475,0.25571,LF,Twins,8/20/2018,10:48:11 AM,Standard,https://mlbcryptobaseball.com/asset/2475,Running Catch,Team USA,#N/A,Hit by Pitch,8/20/2018 10:48:11,0.25571,#N/A,#N/A,#N/A,#N/A
 646,Justin Anderson,2448,0.15103,P,Angels,8/20/2018,10:48:32 AM,Bronze,https://mlbcryptobaseball.com/asset/2448,Load Position,#N/A,Wood,100 mph Pitch,8/20/2018 10:48:32,#N/A,0.15103,#N/A,#N/A,#N/A
@@ -705,7 +705,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 704,J.D. Martinez,652,0.94030,LF,Red Sox,8/20/2018,4:47:59 PM,Bronze,https://mlbcryptobaseball.com/asset/652,Groundball,Midnight,#N/A,5 Run Game,8/20/2018 16:47:59,#N/A,0.94030,#N/A,#N/A,#N/A
 705,Mark Melancon,2585,0.04365,P,Giants,8/20/2018,5:00:00 PM,Standard,https://mlbcryptobaseball.com/asset/2585,Stride,Classic,#N/A,Double Play,8/20/2018 17:00:00,0.04365,#N/A,#N/A,#N/A,#N/A
 706,Mike Trout,2778,0.99872,CF,Angels,8/20/2018,5:04:16 PM,Standard,https://mlbcryptobaseball.com/asset/2778,Fly Ball (Outfielder),Classic,#N/A,No Hitter,8/20/2018 17:04:16,0.99872,#N/A,#N/A,#N/A,#N/A
-707,Shawn Kelley,2666,0.38340,P,A's,8/20/2018,5:20:26 PM,Standard,https://mlbcryptobaseball.com/asset/2666,Windup,Midnight,#N/A,Shutout,8/20/2018 17:20:26,0.38340,#N/A,#N/A,#N/A,#N/A
+707,Shawn Kelley,2666,0.38340,P,Athletics,8/20/2018,5:20:26 PM,Standard,https://mlbcryptobaseball.com/asset/2666,Windup,Midnight,#N/A,Shutout,8/20/2018 17:20:26,0.38340,#N/A,#N/A,#N/A,#N/A
 708,Mike Dunn,2624,0.19391,P,Rockies,8/20/2018,5:23:20 PM,Standard,https://mlbcryptobaseball.com/asset/2624,Windup,Classic,#N/A,Hit for the Cycle,8/20/2018 17:23:20,0.19391,#N/A,#N/A,#N/A,#N/A
 709,James Shields,852,0.11943,P,White Sox,8/20/2018,5:23:34 PM,Standard,https://mlbcryptobaseball.com/asset/852,Stretch and Fire,#N/A,Wood,Hit for the Cycle,8/20/2018 17:23:34,0.11943,#N/A,#N/A,#N/A,#N/A
 710,Jose Abreu,1689,0.66361,1B,White Sox,8/20/2018,5:26:09 PM,Silver,https://mlbcryptobaseball.com/asset/1689,Ready,Midnight,#N/A,5 RBI Game,8/20/2018 17:26:09,#N/A,#N/A,0.66361,#N/A,#N/A
@@ -736,7 +736,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 735,Jorge Bonifacio,2149,0.09750,RF,Royals,8/20/2018,6:52:43 PM,Standard,https://mlbcryptobaseball.com/asset/2149,Groundball,Standard,#N/A,Double Play,8/20/2018 18:52:43,0.09750,#N/A,#N/A,#N/A,#N/A
 736,Noah Syndergaard,2820,0.49920,P,Mets,8/20/2018,6:54:52 PM,Silver,https://mlbcryptobaseball.com/asset/2820,Stride,Team USA,#N/A,Grand Slam,8/20/2018 18:54:52,#N/A,#N/A,0.49920,#N/A,#N/A
 737,Kyle Farmer,2167,0.49471,3B,Dodgers,8/20/2018,6:55:11 PM,Silver,https://mlbcryptobaseball.com/asset/2167,Step Behind,Classic,#N/A,Home Run,8/20/2018 18:55:11,#N/A,#N/A,0.49471,#N/A,#N/A
-738,Marcus Semien,2816,0.49920,SS,A's,8/20/2018,6:55:44 PM,Standard,https://mlbcryptobaseball.com/asset/2816,Stretch and Fire,#N/A,Wood Bat w/ Walnut Finish,9 Strikeout Game,8/20/2018 18:55:44,0.49920,#N/A,#N/A,#N/A,#N/A
+738,Marcus Semien,2816,0.49920,SS,Athletics,8/20/2018,6:55:44 PM,Standard,https://mlbcryptobaseball.com/asset/2816,Stretch and Fire,#N/A,Wood Bat w/ Walnut Finish,9 Strikeout Game,8/20/2018 18:55:44,0.49920,#N/A,#N/A,#N/A,#N/A
 739,Nick Pivetta,2823,0.49932,P,Phillies,8/20/2018,6:57:25 PM,Standard,https://mlbcryptobaseball.com/asset/2823,Load Position,#N/A,Iridescent,Shutout,8/20/2018 18:57:25,0.49932,#N/A,#N/A,#N/A,#N/A
 740,Madison Bumgarner,2825,0.49932,P,Giants,8/20/2018,6:57:58 PM,Bronze,https://mlbcryptobaseball.com/asset/2825,Stride,Standard,#N/A,Grand Slam,8/20/2018 18:57:58,#N/A,0.49932,#N/A,#N/A,#N/A
 741,Austin Barnes,2827,0.55412,C,Dodgers,8/20/2018,7:01:28 PM,Silver,https://mlbcryptobaseball.com/asset/2827,Jab Step,Midnight,#N/A,5 Run Game,8/20/2018 19:01:28,#N/A,#N/A,0.55412,#N/A,#N/A
@@ -768,7 +768,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 767,Russell Martin,2694,0.16958,C,Blue Jays,8/21/2018,12:57:12 AM,Standard,https://mlbcryptobaseball.com/asset/2694,Snap Throw,Classic,#N/A,Triple,8/21/2018 0:57:12,0.16958,#N/A,#N/A,#N/A,#N/A
 768,Brandon Belt,2705,0.20853,1B,Giants,8/21/2018,1:01:44 AM,Standard,https://mlbcryptobaseball.com/asset/2705,Crow Hop,Standard,#N/A,Hit for the Cycle,8/21/2018 1:01:44,0.20853,#N/A,#N/A,#N/A,#N/A
 769,Jose Abreu,2702,0.20692,1B,White Sox,8/21/2018,1:04:55 AM,Standard,https://mlbcryptobaseball.com/asset/2702,Load Position,#N/A,Wood Bat w/ Black Finish,Walk Off,8/21/2018 1:04:55,0.20692,#N/A,#N/A,#N/A,#N/A
-770,Trevor Cahill,2696,0.18385,P,A's,8/21/2018,1:07:18 AM,Standard,https://mlbcryptobaseball.com/asset/2696,Windup,Classic,#N/A,Shutout,8/21/2018 1:07:18,0.18385,#N/A,#N/A,#N/A,#N/A
+770,Trevor Cahill,2696,0.18385,P,Athletics,8/21/2018,1:07:18 AM,Standard,https://mlbcryptobaseball.com/asset/2696,Windup,Classic,#N/A,Shutout,8/21/2018 1:07:18,0.18385,#N/A,#N/A,#N/A,#N/A
 771,Will Harris,1783,0.18765,P,Astros,8/21/2018,9:34:28 AM,Standard,https://mlbcryptobaseball.com/asset/1783,Load Position,#N/A,Wood Bat w/ Black Finish,9 Strikeout Game,8/21/2018 9:34:28,0.18765,#N/A,#N/A,#N/A,#N/A
 772,Joey Gallo,2812,0.20204,LF,Rangers,8/21/2018,9:34:54 AM,Standard,https://mlbcryptobaseball.com/asset/2812,Fly Ball (Outfielder),Classic,#N/A,Double Play,8/21/2018 9:34:54,0.20204,#N/A,#N/A,#N/A,#N/A
 773,Whit Merrifield,2809,0.19713,2B,Royals,8/21/2018,9:35:10 AM,Standard,https://mlbcryptobaseball.com/asset/2809,Batter-runner,#N/A,Wood,Double Play,8/21/2018 9:35:10,0.19713,#N/A,#N/A,#N/A,#N/A
@@ -792,9 +792,9 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 791,Keone Kela,2757,0.16203,P,Pirates,8/21/2018,11:09:22 AM,Silver,https://mlbcryptobaseball.com/asset/2757,Release,Midnight,#N/A,Triple,8/21/2018 11:09:22,#N/A,#N/A,0.16203,#N/A,#N/A
 792,Carlos Gomez,2420,0.06984,RF,Rays,8/21/2018,11:15:51 AM,Standard,https://mlbcryptobaseball.com/asset/2420,Groundball,Classic,#N/A,Shutout,8/21/2018 11:15:51,0.06984,#N/A,#N/A,#N/A,#N/A
 793,Dennis Santana,467,0.10264,P,Dodgers,8/21/2018,11:22:17 AM,Standard,https://mlbcryptobaseball.com/asset/467,Windup,Standard,#N/A,Double,8/21/2018 11:22:17,0.10264,#N/A,#N/A,#N/A,#N/A
-794,Emilio Pagan,2756,0.14885,P,A's,8/21/2018,11:28:58 AM,Standard,https://mlbcryptobaseball.com/asset/2756,Stretch and Fire,#N/A,Wood Bat w/ Black Finish,Grand Slam,8/21/2018 11:28:58,0.14885,#N/A,#N/A,#N/A,#N/A
+794,Emilio Pagan,2756,0.14885,P,Athletics,8/21/2018,11:28:58 AM,Standard,https://mlbcryptobaseball.com/asset/2756,Stretch and Fire,#N/A,Wood Bat w/ Black Finish,Grand Slam,8/21/2018 11:28:58,0.14885,#N/A,#N/A,#N/A,#N/A
 795,Eddie Rosario,2835,0.17395,LF,Twins,8/21/2018,11:30:14 AM,Standard,https://mlbcryptobaseball.com/asset/2835,Stretch and Fire,#N/A,Wood Bat w/ Walnut Finish,Double Play,8/21/2018 11:30:14,0.17395,#N/A,#N/A,#N/A,#N/A
-796,Matt Joyce,1533,0.17980,LF,A's,8/21/2018,11:30:40 AM,Standard,https://mlbcryptobaseball.com/asset/1533,Fly Ball (Outfielder),Midnight,#N/A,5 Run Game,8/21/2018 11:30:40,0.17980,#N/A,#N/A,#N/A,#N/A
+796,Matt Joyce,1533,0.17980,LF,Athletics,8/21/2018,11:30:40 AM,Standard,https://mlbcryptobaseball.com/asset/1533,Fly Ball (Outfielder),Midnight,#N/A,5 Run Game,8/21/2018 11:30:40,0.17980,#N/A,#N/A,#N/A,#N/A
 797,Jacob deGrom,2730,0.28481,P,Mets,8/21/2018,11:45:21 AM,Standard,https://mlbcryptobaseball.com/asset/2730,Stride,Midnight,#N/A,No Hitter,8/21/2018 11:45:21,0.28481,#N/A,#N/A,#N/A,#N/A
 798,Brad Boxberger,2773,0.19582,P,Diamondbacks,8/21/2018,12:00:27 PM,Standard,https://mlbcryptobaseball.com/asset/2773,Windup,Standard,#N/A,Triple,8/21/2018 12:00:27,0.19582,#N/A,#N/A,#N/A,#N/A
 799,Matt Bush,2272,0.06027,P,Rangers,8/21/2018,12:00:40 PM,Standard,https://mlbcryptobaseball.com/asset/2272,Release,Midnight,#N/A,Double Play,8/21/2018 12:00:40,0.06027,#N/A,#N/A,#N/A,#N/A
@@ -851,11 +851,11 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 850,Jen-Ho Tseng,2798,0.07222,P,Cubs,8/21/2018,3:13:50 PM,Standard,https://mlbcryptobaseball.com/asset/2798,Release,Midnight,#N/A,9 Hit Game,8/21/2018 15:13:50,0.07222,#N/A,#N/A,#N/A,#N/A
 851,Mitch Haniger,2781,0.09498,RF,Mariners,8/21/2018,3:14:06 PM,Standard,https://mlbcryptobaseball.com/asset/2781,Fly Ball (Outfielder),Midnight,#N/A,Hit for the Cycle,8/21/2018 15:14:06,0.09498,#N/A,#N/A,#N/A,#N/A
 852,Raisel Iglesias,2821,0.07494,P,Reds,8/21/2018,3:20:51 PM,Standard,https://mlbcryptobaseball.com/asset/2821,Windup,Classic,#N/A,4 Home Run Game (Single Hitter),8/21/2018 15:20:51,0.07494,#N/A,#N/A,#N/A,#N/A
-853,Jed Lowrie,2966,0.99731,2B,A's,8/21/2018,3:24:20 PM,Standard,https://mlbcryptobaseball.com/asset/2966,Batter-runner,#N/A,Silver,5 RBI Game,8/21/2018 15:24:20,0.99731,#N/A,#N/A,#N/A,#N/A
+853,Jed Lowrie,2966,0.99731,2B,Athletics,8/21/2018,3:24:20 PM,Standard,https://mlbcryptobaseball.com/asset/2966,Batter-runner,#N/A,Silver,5 RBI Game,8/21/2018 15:24:20,0.99731,#N/A,#N/A,#N/A,#N/A
 854,Francisco Lindor,2980,0.99878,SS,Indians,8/21/2018,3:27:20 PM,Silver,https://mlbcryptobaseball.com/asset/2980,Long Hop,Team USA,#N/A,Home Run,8/21/2018 15:27:20,#N/A,#N/A,0.99878,#N/A,#N/A
 855,Brett Gardner,2979,0.99856,LF,Yankees,8/21/2018,3:28:05 PM,Standard,https://mlbcryptobaseball.com/asset/2979,Groundball,Midnight,#N/A,Hit for the Cycle,8/21/2018 15:28:05,0.99856,#N/A,#N/A,#N/A,#N/A
 856,Brandon Drury,2814,0.06962,3B,Blue Jays,8/21/2018,3:29:14 PM,Standard,https://mlbcryptobaseball.com/asset/2814,Ready,Standard,#N/A,Immaculate Inning,8/21/2018 15:29:14,0.06962,#N/A,#N/A,#N/A,#N/A
-857,Jed Lowrie,2966,0.99731,2B,A's,8/21/2018,3:31:10 PM,Standard,https://mlbcryptobaseball.com/asset/2966,Batter-runner,#N/A,Silver,5 RBI Game,8/21/2018 15:31:10,0.99731,#N/A,#N/A,#N/A,#N/A
+857,Jed Lowrie,2966,0.99731,2B,Athletics,8/21/2018,3:31:10 PM,Standard,https://mlbcryptobaseball.com/asset/2966,Batter-runner,#N/A,Silver,5 RBI Game,8/21/2018 15:31:10,0.99731,#N/A,#N/A,#N/A,#N/A
 858,Aaron Judge,2709,0.99881,RF,Yankees,8/21/2018,3:32:33 PM,Standard,https://mlbcryptobaseball.com/asset/2709,Groundball,Standard,#N/A,Home Run Distance (495 ft.),8/21/2018 15:32:33,0.99881,#N/A,#N/A,#N/A,#N/A
 859,Mookie Betts,2982,0.99863,RF,Red Sox,8/21/2018,3:36:17 PM,Standard,https://mlbcryptobaseball.com/asset/2982,Follow Through,#N/A,Wood,Grand Slam,8/21/2018 15:36:17,0.99863,#N/A,#N/A,#N/A,#N/A
 860,Derek Fisher,1843,0.20500,LF,Astros,8/21/2018,3:36:31 PM,Standard,https://mlbcryptobaseball.com/asset/1843,Fly Ball (Outfielder),Midnight,#N/A,No Hitter,8/21/2018 15:36:31,0.20500,#N/A,#N/A,#N/A,#N/A
@@ -919,7 +919,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 918,Yadier Molina,3107,0.27535,C,Cardinals,8/22/2018,12:07:23 PM,Standard,https://mlbcryptobaseball.com/asset/3107,Snap Throw,Standard,#N/A,Walk Off,8/22/2018 12:07:23,0.27535,#N/A,#N/A,#N/A,#N/A
 919,Freddie Freeman,3088,0.26606,1B,Braves,8/22/2018,12:08:13 PM,Standard,https://mlbcryptobaseball.com/asset/3088,Crow Hop,Standard,#N/A,Triple,8/22/2018 12:08:13,0.26606,#N/A,#N/A,#N/A,#N/A
 920,Nick Markakis,2998,0.13501,RF,Braves,8/22/2018,12:23:28 PM,Standard,https://mlbcryptobaseball.com/asset/2998,Follow Through,#N/A,Wood,Perfect Game,8/22/2018 12:23:28,0.13501,#N/A,#N/A,#N/A,#N/A
-921,Matt Joyce,3116,0.26767,LF,A's,8/22/2018,12:25:57 PM,Bronze,https://mlbcryptobaseball.com/asset/3116,Groundball,Standard,#N/A,9 Strikeout Game,8/22/2018 12:25:57,#N/A,0.26767,#N/A,#N/A,#N/A
+921,Matt Joyce,3116,0.26767,LF,Athletics,8/22/2018,12:25:57 PM,Bronze,https://mlbcryptobaseball.com/asset/3116,Groundball,Standard,#N/A,9 Strikeout Game,8/22/2018 12:25:57,#N/A,0.26767,#N/A,#N/A,#N/A
 922,Aaron Wilkerson,2716,0.11900,P,Brewers,8/22/2018,12:28:12 PM,Standard,https://mlbcryptobaseball.com/asset/2716,Windup,Classic,#N/A,4 Home Run Game (Single Hitter),8/22/2018 12:28:12,0.11900,#N/A,#N/A,#N/A,#N/A
 923,Tyler Skaggs,2658,0.10152,P,Angels,8/22/2018,12:29:08 PM,Standard,https://mlbcryptobaseball.com/asset/2658,Sweet Spot,#N/A,Wood Bat w/ Walnut Finish,9 Hit Game,8/22/2018 12:29:08,0.10152,#N/A,#N/A,#N/A,#N/A
 924,Marcell Ozuna,2837,0.12047,LF,Cardinals,8/22/2018,12:30:32 PM,Standard,https://mlbcryptobaseball.com/asset/2837,Load Position,#N/A,Wood Bat w/ Black Finish,Hit by Pitch,8/22/2018 12:30:32,0.12047,#N/A,#N/A,#N/A,#N/A
@@ -935,7 +935,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 934,Gorkys Hernandez,2975,0.11001,CF,Giants,8/22/2018,12:45:24 PM,Standard,https://mlbcryptobaseball.com/asset/2975,Running Catch,Standard,#N/A,Home Run,8/22/2018 12:45:24,0.11001,#N/A,#N/A,#N/A,#N/A
 935,Tyler Beede,2945,0.09523,P,Giants,8/22/2018,12:48:09 PM,Standard,https://mlbcryptobaseball.com/asset/2945,Release,Team USA,#N/A,9 Hit Game,8/22/2018 12:48:09,0.09523,#N/A,#N/A,#N/A,#N/A
 936,Steve Cishek,2978,0.10855,P,Cubs,8/22/2018,12:49:52 PM,Standard,https://mlbcryptobaseball.com/asset/2978,Windup,Midnight,#N/A,Hit by Pitch,8/22/2018 12:49:52,0.10855,#N/A,#N/A,#N/A,#N/A
-937,Dustin Fowler,2936,0.09014,CF,A's,8/22/2018,12:52:03 PM,Standard,https://mlbcryptobaseball.com/asset/2936,Running Catch,Classic,#N/A,Home Run Distance (495 ft.),8/22/2018 12:52:03,0.09014,#N/A,#N/A,#N/A,#N/A
+937,Dustin Fowler,2936,0.09014,CF,Athletics,8/22/2018,12:52:03 PM,Standard,https://mlbcryptobaseball.com/asset/2936,Running Catch,Classic,#N/A,Home Run Distance (495 ft.),8/22/2018 12:52:03,0.09014,#N/A,#N/A,#N/A,#N/A
 938,Luis Perdomo,2969,0.09834,P,Padres,8/22/2018,12:58:26 PM,Bronze,https://mlbcryptobaseball.com/asset/2969,Stride,Standard,#N/A,Triple,8/22/2018 12:58:26,#N/A,0.09834,#N/A,#N/A,#N/A
 939,Matt Reynolds,2711,0.26927,3B,Nationals,8/22/2018,1:01:42 PM,Silver,https://mlbcryptobaseball.com/asset/2711,Ready,Standard,#N/A,Grand Slam,8/22/2018 13:01:42,#N/A,#N/A,0.26927,#N/A,#N/A
 940,Jason Kipnis,3010,0.11204,2B,Indians,8/22/2018,1:05:20 PM,Standard,https://mlbcryptobaseball.com/asset/3010,Follow Through,#N/A,Wood Bat w/ Black Finish,Perfect Game,8/22/2018 13:05:20,0.11204,#N/A,#N/A,#N/A,#N/A
@@ -967,7 +967,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 966,Joe Jimenez,3004,0.06719,P,Tigers,8/22/2018,2:04:36 PM,Standard,https://mlbcryptobaseball.com/asset/3004,Sweet Spot,#N/A,Wood Bat w/ Grip,Walk Off,8/22/2018 14:04:36,0.06719,#N/A,#N/A,#N/A,#N/A
 967,J.P. Crawford,2973,0.05462,SS,Phillies,8/22/2018,2:04:53 PM,Standard,https://mlbcryptobaseball.com/asset/2973,Backhand,Standard,#N/A,Walk Off,8/22/2018 14:04:53,0.05462,#N/A,#N/A,#N/A,#N/A
 968,Paul Goldschmidt,2893,0.30000,1B,Diamondbacks,8/22/2018,2:05:47 PM,Standard,https://mlbcryptobaseball.com/asset/2893,Ready,Midnight,#N/A,9 Strikeout Game,8/22/2018 14:05:47,0.30000,#N/A,#N/A,#N/A,#N/A
-969,Zack Weiss,3001,0.06942,P,Red,8/22/2018,2:05:45 PM,Standard,https://mlbcryptobaseball.com/asset/3001,Stretch and Fire,#N/A,Wood Bat w/ Black Finish,Double,8/22/2018 14:05:45,0.06942,#N/A,#N/A,#N/A,#N/A
+969,Zack Weiss,3001,0.06942,P,Reds,8/22/2018,2:05:45 PM,Standard,https://mlbcryptobaseball.com/asset/3001,Stretch and Fire,#N/A,Wood Bat w/ Black Finish,Double,8/22/2018 14:05:45,0.06942,#N/A,#N/A,#N/A,#N/A
 970,Matt Reynolds,2951,0.04483,3B,Nationals,8/22/2018,2:06:08 PM,Standard,https://mlbcryptobaseball.com/asset/2951,Crow Hop,Standard,#N/A,100 mph Pitch,8/22/2018 14:06:08,0.04483,#N/A,#N/A,#N/A,#N/A
 971,Teoscar Hernandez,2964,0.04887,LF,Blue Jays,8/22/2018,2:07:11 PM,Standard,https://mlbcryptobaseball.com/asset/2964,Follow Through,#N/A,Wood Bat w/ Black Finish,4 Home Run Game (Single Hitter),8/22/2018 14:07:11,0.04887,#N/A,#N/A,#N/A,#N/A
 972,Tyler Danish,2942,0.03848,P,White Sox,8/22/2018,2:09:26 PM,Standard,https://mlbcryptobaseball.com/asset/2942,Stride,Midnight,#N/A,5 Run Game,8/22/2018 14:09:26,0.03848,#N/A,#N/A,#N/A,#N/A
@@ -1011,7 +1011,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1010,Matt Duffy,3050,0.06881,3B,Rays,8/22/2018,4:30:10 PM,Standard,https://mlbcryptobaseball.com/asset/3050,Sidearm,Standard,#N/A,9 Strikeout Game,8/22/2018 16:30:10,0.06881,#N/A,#N/A,#N/A,#N/A
 1011,Matt Williamson,3095,0.08603,LF,Giants,8/22/2018,4:32:13 PM,Standard,https://mlbcryptobaseball.com/asset/3095,Stretch and Fire,#N/A,Wood Bat w/ Black Finish,4 Home Run Game (Single Hitter),8/22/2018 16:32:13,0.08603,#N/A,#N/A,#N/A,#N/A
 1012,Wander Suero,3041,0.05409,P,Nationals,8/22/2018,4:49:34 PM,Standard,https://mlbcryptobaseball.com/asset/3041,Stride,Standard,#N/A,5 Run Game,8/22/2018 16:49:34,0.05409,#N/A,#N/A,#N/A,#N/A
-1013,Lou Trivino,3086,0.07297,P,A's,8/22/2018,4:49:55 PM,Standard,https://mlbcryptobaseball.com/asset/3086,Windup,Team USA,#N/A,5 Run Game,8/22/2018 16:49:55,0.07297,#N/A,#N/A,#N/A,#N/A
+1013,Lou Trivino,3086,0.07297,P,Athletics,8/22/2018,4:49:55 PM,Standard,https://mlbcryptobaseball.com/asset/3086,Windup,Team USA,#N/A,5 Run Game,8/22/2018 16:49:55,0.07297,#N/A,#N/A,#N/A,#N/A
 1014,Joey Gallo,3082,0.06914,LF,Rangers,8/22/2018,4:50:10 PM,Standard,https://mlbcryptobaseball.com/asset/3082,Groundball,Standard,#N/A,Triple,8/22/2018 16:50:10,0.06914,#N/A,#N/A,#N/A,#N/A
 1015,Chad Wallach,3083,0.06866,C,Marlins,8/22/2018,4:51:09 PM,Standard,https://mlbcryptobaseball.com/asset/3083,Snap Throw,Team USA,#N/A,Home Run,8/22/2018 16:51:09,0.06866,#N/A,#N/A,#N/A,#N/A
 1016,Gorkys Hernandez,3065,0.05815,CF,Giants,8/22/2018,4:52:27 PM,Standard,https://mlbcryptobaseball.com/asset/3065,Follow Through,#N/A,Wood Bat w/ Walnut Finish,Triple,8/22/2018 16:52:27,0.05815,#N/A,#N/A,#N/A,#N/A
@@ -1091,7 +1091,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1090,Aaron Judge,3159,0.99888,RF,Yankees,8/23/2018,11:09:31 AM,Standard,https://mlbcryptobaseball.com/asset/3159,,,,,8/23/2018 11:09:31,0.99888,#N/A,#N/A,#N/A,#N/A
 1091,Chase Utley,3157,0.99888,2B,Dodgers,8/23/2018,11:09:46 AM,Silver,https://mlbcryptobaseball.com/asset/3157,,,,,8/23/2018 11:09:46,#N/A,#N/A,0.99888,#N/A,#N/A
 1092,Corey Kluber,3160,0.99792,P,Indians,8/23/2018,11:11:59 AM,Silver,https://mlbcryptobaseball.com/asset/3160,,,,,8/23/2018 11:11:59,#N/A,#N/A,0.99792,#N/A,#N/A
-1093,Lou Trivino,2456,0.08900,P,A's,8/23/2018,11:15:17 AM,Standard,https://mlbcryptobaseball.com/asset/2456,,,,,8/23/2018 11:15:17,0.08900,#N/A,#N/A,#N/A,#N/A
+1093,Lou Trivino,2456,0.08900,P,Athletics,8/23/2018,11:15:17 AM,Standard,https://mlbcryptobaseball.com/asset/2456,,,,,8/23/2018 11:15:17,0.08900,#N/A,#N/A,#N/A,#N/A
 1094,Shohei Ohtani,3168,0.99858,P,Angels,8/23/2018,11:16:29 AM,Standard,https://mlbcryptobaseball.com/asset/3168,,,,,8/23/2018 11:16:29,0.99858,#N/A,#N/A,#N/A,#N/A
 1095,Ben Zobrist,2528,0.20000,2B,Cubs,8/23/2018,11:21:04 AM,Standard,https://mlbcryptobaseball.com/asset/2528,,,,,8/23/2018 11:21:04,0.20000,#N/A,#N/A,#N/A,#N/A
 1096,Jose Altuve,3186,0.99921,2B,Astros,8/23/2018,11:27:22 AM,Standard,https://mlbcryptobaseball.com/asset/3186,,,,,8/23/2018 11:27:22,0.99921,#N/A,#N/A,#N/A,#N/A
@@ -1123,7 +1123,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1122,Yadier Molina,3187,0.81703,C,Cardinals,8/23/2018,3:57:03 PM,Standard,https://mlbcryptobaseball.com/asset/3187,,,,,8/23/2018 15:57:03,0.81703,#N/A,#N/A,#N/A,#N/A
 1123,Francisco Lindor,3280,2.00000,SS,Indians,8/23/2018,4:03:33 PM,Silver,https://mlbcryptobaseball.com/asset/3280,,,,,8/23/2018 16:03:33,#N/A,#N/A,2.00000,#N/A,#N/A
 1124,Dustin Pedroia,3342,1.44037,2B,Red Sox,8/23/2018,4:46:01 PM,Standard,https://mlbcryptobaseball.com/asset/3342,,,,,8/23/2018 16:46:01,1.44037,#N/A,#N/A,#N/A,#N/A
-1125,Sean Manaea,3296,1.42715,P,A's,8/23/2018,4:46:26 PM,Silver,https://mlbcryptobaseball.com/asset/3296,,,,,8/23/2018 16:46:26,#N/A,#N/A,1.42715,#N/A,#N/A
+1125,Sean Manaea,3296,1.42715,P,Athletics,8/23/2018,4:46:26 PM,Silver,https://mlbcryptobaseball.com/asset/3296,,,,,8/23/2018 16:46:26,#N/A,#N/A,1.42715,#N/A,#N/A
 1126,Nick Williams,1330,0.50606,RF,Phillies,8/23/2018,4:46:39 PM,Standard,https://mlbcryptobaseball.com/asset/1330,,,,,8/23/2018 16:46:39,0.50606,#N/A,#N/A,#N/A,#N/A
 1127,Ben Lively,1210,0.50000,P,Phillies,8/23/2018,4:46:50 PM,Standard,https://mlbcryptobaseball.com/asset/1210,,,,,8/23/2018 16:46:50,0.50000,#N/A,#N/A,#N/A,#N/A
 1128,Luke Jackson,2248,0.09900,P,Braves,8/23/2018,5:41:36 PM,Standard,https://mlbcryptobaseball.com/asset/2248,,,,,8/23/2018 17:41:36,0.09900,#N/A,#N/A,#N/A,#N/A
@@ -1166,7 +1166,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1165,James Paxton,3201,0.15028,P,Mariners,8/24/2018,8:00:56 AM,Standard,https://mlbcryptobaseball.com/asset/3201,,,,,8/24/2018 8:00:56,0.15028,#N/A,#N/A,#N/A,#N/A
 1166,Salvador Perez,3169,0.13816,C,Royals,8/24/2018,8:01:10 AM,Standard,https://mlbcryptobaseball.com/asset/3169,,,,,8/24/2018 8:01:10,0.13816,#N/A,#N/A,#N/A,#N/A
 1167,Jose Pirela,3149,0.12994,2B,Padres,8/24/2018,8:01:27 AM,Standard,https://mlbcryptobaseball.com/asset/3149,,,,,8/24/2018 8:01:27,0.12994,#N/A,#N/A,#N/A,#N/A
-1168,Jed Lowrie,3176,0.13414,2B,A's,8/24/2018,8:06:32 AM,Standard,https://mlbcryptobaseball.com/asset/3176,,,,,8/24/2018 8:06:32,0.13414,#N/A,#N/A,#N/A,#N/A
+1168,Jed Lowrie,3176,0.13414,2B,Athletics,8/24/2018,8:06:32 AM,Standard,https://mlbcryptobaseball.com/asset/3176,,,,,8/24/2018 8:06:32,0.13414,#N/A,#N/A,#N/A,#N/A
 1169,Miguel Sano,3165,0.12329,3B,Twins,8/24/2018,8:15:48 AM,Standard,https://mlbcryptobaseball.com/asset/3165,,,,,8/24/2018 8:15:48,0.12329,#N/A,#N/A,#N/A,#N/A
 1170,Nolan Arenado,3254,0.34688,3B,Rockies,8/24/2018,8:20:29 AM,Standard,https://mlbcryptobaseball.com/asset/3254,,,,,8/24/2018 8:20:29,0.34688,#N/A,#N/A,#N/A,#N/A
 1171,Noah Syndergaard,3240,0.18933,P,Mets,8/24/2018,8:23:29 AM,Standard,https://mlbcryptobaseball.com/asset/3240,,,,,8/24/2018 8:23:29,0.18933,#N/A,#N/A,#N/A,#N/A
@@ -1174,14 +1174,14 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1173,Chris Sale,3282,0.39621,P,Red Sox,8/24/2018,8:26:01 AM,Standard,https://mlbcryptobaseball.com/asset/3282,,,,,8/24/2018 8:26:01,0.39621,#N/A,#N/A,#N/A,#N/A
 1174,Giancarlo Stanton,3369,0.53191,LF,Yankees,8/24/2018,8:29:49 AM,Standard,https://mlbcryptobaseball.com/asset/3369,,,,,8/24/2018 8:29:49,0.53191,#N/A,#N/A,#N/A,#N/A
 1175,Ian Desmond,3224,0.13870,1B,Rockies,8/24/2018,8:30:08 AM,Standard,https://mlbcryptobaseball.com/asset/3224,,,,,8/24/2018 8:30:08,0.13870,#N/A,#N/A,#N/A,#N/A
-1176,Marcus Semien,486,0.36008,SS,A's,8/24/2018,8:30:37 AM,Standard,https://mlbcryptobaseball.com/asset/486,,,,,8/24/2018 8:30:37,0.36008,#N/A,#N/A,#N/A,#N/A
+1176,Marcus Semien,486,0.36008,SS,Athletics,8/24/2018,8:30:37 AM,Standard,https://mlbcryptobaseball.com/asset/486,,,,,8/24/2018 8:30:37,0.36008,#N/A,#N/A,#N/A,#N/A
 1177,Yeonis Cespedes,3180,0.11605,LF,Mets,8/24/2018,8:34:29 AM,Standard,https://mlbcryptobaseball.com/asset/3180,,,,,8/24/2018 8:34:29,0.11605,#N/A,#N/A,#N/A,#N/A
 1178,Eric Hosmer,3239,0.18089,1B,Padres,8/24/2018,8:34:42 AM,Standard,https://mlbcryptobaseball.com/asset/3239,,,,,8/24/2018 8:34:42,0.18089,#N/A,#N/A,#N/A,#N/A
 1179,Freddy Galvis,3179,0.11586,SS,Padres,8/24/2018,8:34:56 AM,Standard,https://mlbcryptobaseball.com/asset/3179,,,,,8/24/2018 8:34:56,0.11586,#N/A,#N/A,#N/A,#N/A
 1180,Kolten Wong,3167,0.10664,2B,Cardinals,8/24/2018,8:40:33 AM,Standard,https://mlbcryptobaseball.com/asset/3167,,,,,8/24/2018 8:40:33,0.10664,#N/A,#N/A,#N/A,#N/A
 1181,Rafael Devers,3492,0.69386,3B,Red Sox,8/24/2018,8:44:27 AM,Standard,https://mlbcryptobaseball.com/asset/3492,,,,,8/24/2018 8:44:27,0.69386,#N/A,#N/A,#N/A,#N/A
 1182,Craig Kimbrel,3612,0.75098,P,Red Sox,8/24/2018,8:46:26 AM,Bronze,https://mlbcryptobaseball.com/asset/3612,,,,,8/24/2018 8:46:26,#N/A,0.75098,#N/A,#N/A,#N/A
-1183,Chad Pinder,576,0.27000,LF,A's,8/24/2018,8:48:06 AM,Standard,https://mlbcryptobaseball.com/asset/576,,,,,8/24/2018 8:48:06,0.27000,#N/A,#N/A,#N/A,#N/A
+1183,Chad Pinder,576,0.27000,LF,Athletics,8/24/2018,8:48:06 AM,Standard,https://mlbcryptobaseball.com/asset/576,,,,,8/24/2018 8:48:06,0.27000,#N/A,#N/A,#N/A,#N/A
 1184,Cesar Hernandez,3333,0.43101,2B,Phillies,8/24/2018,8:49:41 AM,Standard,https://mlbcryptobaseball.com/asset/3333,,,,,8/24/2018 8:49:41,0.43101,#N/A,#N/A,#N/A,#N/A
 1185,Jorge Alfaro,3243,0.16692,C,Phillies,8/24/2018,8:51:14 AM,Standard,https://mlbcryptobaseball.com/asset/3243,,,,,8/24/2018 8:51:14,0.16692,#N/A,#N/A,#N/A,#N/A
 1186,Rhys Hoskins,2463,0.21000,LF,Phillies,8/24/2018,8:54:32 AM,Standard,https://mlbcryptobaseball.com/asset/2463,,,,,8/24/2018 8:54:32,0.21000,#N/A,#N/A,#N/A,#N/A
@@ -1211,7 +1211,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1210,Matt Duffy,3170,0.07554,3B,Rays,8/24/2018,9:24:21 AM,Standard,https://mlbcryptobaseball.com/asset/3170,,,,,8/24/2018 9:24:21,0.07554,#N/A,#N/A,#N/A,#N/A
 1211,Starling Marte,3207,0.08650,CF,Pirates,8/24/2018,9:33:39 AM,Standard,https://mlbcryptobaseball.com/asset/3207,,,,,8/24/2018 9:33:39,0.08650,#N/A,#N/A,#N/A,#N/A
 1212,Nick Markakis,3148,0.05998,RF,Braves,8/24/2018,9:35:22 AM,Standard,https://mlbcryptobaseball.com/asset/3148,,,,,8/24/2018 9:35:22,0.05998,#N/A,#N/A,#N/A,#N/A
-1213,Jharel Cotton,3206,0.08617,P,A's,8/24/2018,9:36:44 AM,Standard,https://mlbcryptobaseball.com/asset/3206,,,,,8/24/2018 9:36:44,0.08617,#N/A,#N/A,#N/A,#N/A
+1213,Jharel Cotton,3206,0.08617,P,Athletics,8/24/2018,9:36:44 AM,Standard,https://mlbcryptobaseball.com/asset/3206,,,,,8/24/2018 9:36:44,0.08617,#N/A,#N/A,#N/A,#N/A
 1214,Jesus Aguilar,3166,0.06721,1B,Brewers,8/24/2018,9:37:18 AM,Standard,https://mlbcryptobaseball.com/asset/3166,,,,,8/24/2018 9:37:18,0.06721,#N/A,#N/A,#N/A,#N/A
 1215,Logan Morrison,3195,0.07686,1B,Twins,8/24/2018,9:37:31 AM,Standard,https://mlbcryptobaseball.com/asset/3195,,,,,8/24/2018 9:37:31,0.07686,#N/A,#N/A,#N/A,#N/A
 1216,Billy Hamilton,3181,0.07080,CF,Reds,8/24/2018,9:40:27 AM,Standard,https://mlbcryptobaseball.com/asset/3181,,,,,8/24/2018 9:40:27,0.07080,#N/A,#N/A,#N/A,#N/A
@@ -1221,7 +1221,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1220,Aaron Bummer,3152,0.05435,P,White Sox,8/24/2018,9:47:24 AM,Standard,https://mlbcryptobaseball.com/asset/3152,,,,,8/24/2018 9:47:24,0.05435,#N/A,#N/A,#N/A,#N/A
 1221,Francisco Lindor,3400,0.49478,SS,Indians,8/24/2018,9:47:37 AM,Standard,https://mlbcryptobaseball.com/asset/3400,,,,,8/24/2018 9:47:37,0.49478,#N/A,#N/A,#N/A,#N/A
 1222,Joey Gallo,3202,0.07370,LF,Rangers,8/24/2018,9:48:51 AM,Standard,https://mlbcryptobaseball.com/asset/3202,,,,,8/24/2018 9:48:51,0.07370,#N/A,#N/A,#N/A,#N/A
-1223,Mark Canha,3146,0.05024,CF,A's,8/24/2018,9:49:17 AM,Standard,https://mlbcryptobaseball.com/asset/3146,,,,,8/24/2018 9:49:17,0.05024,#N/A,#N/A,#N/A,#N/A
+1223,Mark Canha,3146,0.05024,CF,Athletics,8/24/2018,9:49:17 AM,Standard,https://mlbcryptobaseball.com/asset/3146,,,,,8/24/2018 9:49:17,0.05024,#N/A,#N/A,#N/A,#N/A
 1224,Jesus Aguilar,3196,0.06931,1B,Brewers,8/24/2018,9:52:23 AM,Standard,https://mlbcryptobaseball.com/asset/3196,,,,,8/24/2018 9:52:23,0.06931,#N/A,#N/A,#N/A,#N/A
 1225,Curt Casali,3151,0.04977,C,Reds,8/24/2018,9:53:26 AM,Standard,https://mlbcryptobaseball.com/asset/3151,,,,,8/24/2018 9:53:26,0.04977,#N/A,#N/A,#N/A,#N/A
 1226,Drew Smith,3150,0.04500,P,Mets,8/24/2018,9:58:26 AM,Standard,https://mlbcryptobaseball.com/asset/3150,,,,,8/24/2018 9:58:26,0.04500,#N/A,#N/A,#N/A,#N/A
@@ -1232,7 +1232,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1231,Ranger Suarez,3153,0.04230,P,Phillies,8/24/2018,10:04:52 AM,Standard,https://mlbcryptobaseball.com/asset/3153,,,,,8/24/2018 10:04:52,0.04230,#N/A,#N/A,#N/A,#N/A
 1232,Matt Koch,3163,0.04645,P,Diamondbacks,8/24/2018,10:05:08 AM,Standard,https://mlbcryptobaseball.com/asset/3163,,,,,8/24/2018 10:05:08,0.04645,#N/A,#N/A,#N/A,#N/A
 1233,Austin Slater,3185,0.05354,LF,Giants,8/24/2018,10:05:23 AM,Standard,https://mlbcryptobaseball.com/asset/3185,,,,,8/24/2018 10:05:23,0.05354,#N/A,#N/A,#N/A,#N/A
-1234,Daniel Mengden,3236,0.09785,P,A's,8/24/2018,10:05:45 AM,Standard,https://mlbcryptobaseball.com/asset/3236,,,,,8/24/2018 10:05:45,0.09785,#N/A,#N/A,#N/A,#N/A
+1234,Daniel Mengden,3236,0.09785,P,Athletics,8/24/2018,10:05:45 AM,Standard,https://mlbcryptobaseball.com/asset/3236,,,,,8/24/2018 10:05:45,0.09785,#N/A,#N/A,#N/A,#N/A
 1235,Sandy Alcantara,3233,0.08955,P,Marlins,8/24/2018,10:09:22 AM,Standard,https://mlbcryptobaseball.com/asset/3233,,,,,8/24/2018 10:09:22,0.08955,#N/A,#N/A,#N/A,#N/A
 1236,Luis Guillorme,3210,0.06310,3B,Mets,8/24/2018,10:09:55 AM,Standard,https://mlbcryptobaseball.com/asset/3210,,,,,8/24/2018 10:09:55,0.06310,#N/A,#N/A,#N/A,#N/A
 1237,Dan Wrinkler,3208,0.06234,P,Braves,8/24/2018,10:09:57 AM,Standard,https://mlbcryptobaseball.com/asset/3208,,,,,8/24/2018 10:09:57,0.06234,#N/A,#N/A,#N/A,#N/A
@@ -1295,7 +1295,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1294,Aaron Judge,3639,0.63766,RF,Yankees,8/24/2018,12:48:43 PM,Standard,https://mlbcryptobaseball.com/asset/3639,,,,,8/24/2018 12:48:43,0.63766,#N/A,#N/A,#N/A,#N/A
 1295,Josh Donaldson,3294,0.15358,3B,Blue Jays,8/24/2018,12:49:38 PM,Bronze,https://mlbcryptobaseball.com/asset/3294,,,,,8/24/2018 12:49:38,#N/A,0.15358,#N/A,#N/A,#N/A
 1296,Albert Pujols,3258,0.11492,1B,Angels,8/24/2018,1:03:12 PM,Standard,https://mlbcryptobaseball.com/asset/3258,,,,,8/24/2018 13:03:12,0.11492,#N/A,#N/A,#N/A,#N/A
-1297,Khris Davis,3326,0.17786,LF,A's,8/24/2018,1:03:28 PM,Standard,https://mlbcryptobaseball.com/asset/3326,,,,,8/24/2018 13:03:28,0.17786,#N/A,#N/A,#N/A,#N/A
+1297,Khris Davis,3326,0.17786,LF,Athletics,8/24/2018,1:03:28 PM,Standard,https://mlbcryptobaseball.com/asset/3326,,,,,8/24/2018 13:03:28,0.17786,#N/A,#N/A,#N/A,#N/A
 1298,Christian Yelich,3286,0.20987,LF,Brewers,8/24/2018,1:03:46 PM,Standard,https://mlbcryptobaseball.com/asset/3286,,,,,8/24/2018 13:03:46,0.20987,#N/A,#N/A,#N/A,#N/A
 1299,Rougned Odor,3322,0.16604,2B,Rangers,8/24/2018,1:03:57 PM,Standard,https://mlbcryptobaseball.com/asset/3322,,,,,8/24/2018 13:03:57,0.16604,#N/A,#N/A,#N/A,#N/A
 1300,Luis Severino,3609,0.55942,P,Yankees,8/24/2018,1:05:50 PM,Bronze,https://mlbcryptobaseball.com/asset/3609,,,,,8/24/2018 13:05:50,#N/A,0.55942,#N/A,#N/A,#N/A
@@ -1312,7 +1312,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1311,Jesus Aguilar,3256,0.06993,1B,Brewers,8/24/2018,1:46:30 PM,Standard,https://mlbcryptobaseball.com/asset/3256,,,,,8/24/2018 13:46:30,0.06993,#N/A,#N/A,#N/A,#N/A
 1312,Wil Myers,3269,0.07552,LF,Padres,8/24/2018,1:55:10 PM,Standard,https://mlbcryptobaseball.com/asset/3269,,,,,8/24/2018 13:55:10,0.07552,#N/A,#N/A,#N/A,#N/A
 1313,Robbie Grossman,3255,0.05899,RF,Twins,8/24/2018,1:55:29 PM,Standard,https://mlbcryptobaseball.com/asset/3255,,,,,8/24/2018 13:55:29,0.05899,#N/A,#N/A,#N/A,#N/A
-1314,Matt Chapman,3266,0.06957,3B,A's,8/24/2018,1:56:29 PM,Standard,https://mlbcryptobaseball.com/asset/3266,,,,,8/24/2018 13:56:29,0.06957,#N/A,#N/A,#N/A,#N/A
+1314,Matt Chapman,3266,0.06957,3B,Athletics,8/24/2018,1:56:29 PM,Standard,https://mlbcryptobaseball.com/asset/3266,,,,,8/24/2018 13:56:29,0.06957,#N/A,#N/A,#N/A,#N/A
 1315,Brian Duensing,3278,0.07295,P,Cubs,8/24/2018,1:58:44 PM,Standard,https://mlbcryptobaseball.com/asset/3278,,,,,8/24/2018 13:58:44,0.07295,#N/A,#N/A,#N/A,#N/A
 1316,Corey Gearrin,3262,0.05678,P,Rangers,8/24/2018,2:03:48 PM,Standard,https://mlbcryptobaseball.com/asset/3262,,,,,8/24/2018 14:03:48,0.05678,#N/A,#N/A,#N/A,#N/A
 1317,Manny Machado,3752,0.96672,3B,Dodgers,8/24/2018,2:04:34 PM,Standard,https://mlbcryptobaseball.com/asset/3752,,,,,8/24/2018 14:04:34,0.96672,#N/A,#N/A,#N/A,#N/A
@@ -1324,7 +1324,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1323,Trevor May,3315,0.08440,P,Twins,8/24/2018,2:15:35 PM,Standard,https://mlbcryptobaseball.com/asset/3315,,,,,8/24/2018 14:15:35,0.08440,#N/A,#N/A,#N/A,#N/A
 1324,Sam Freeman,3328,0.09160,P,Braves,8/24/2018,2:18:09 PM,Standard,https://mlbcryptobaseball.com/asset/3328,,,,,8/24/2018 14:18:09,0.09160,#N/A,#N/A,#N/A,#N/A
 1325,Martin Maldonado,3336,0.09483,C,Astros,8/24/2018,2:18:25 PM,Standard,https://mlbcryptobaseball.com/asset/3336,,,,,8/24/2018 14:18:25,0.09483,#N/A,#N/A,#N/A,#N/A
-1326,Matt Chapman,3356,0.21423,3B,A's,8/24/2018,2:23:19 PM,Bronze,https://mlbcryptobaseball.com/asset/3356,,,,,8/24/2018 14:23:19,#N/A,0.21423,#N/A,#N/A,#N/A
+1326,Matt Chapman,3356,0.21423,3B,Athletics,8/24/2018,2:23:19 PM,Bronze,https://mlbcryptobaseball.com/asset/3356,,,,,8/24/2018 14:23:19,#N/A,0.21423,#N/A,#N/A,#N/A
 1327,David Dahl,3374,0.20759,RF,Rockies,8/24/2018,2:27:18 PM,Bronze,https://mlbcryptobaseball.com/asset/3374,,,,,8/24/2018 14:27:18,#N/A,0.20759,#N/A,#N/A,#N/A
 1328,Giancarlo Stanton,3669,0.66781,LF,Yankees,8/24/2018,2:27:30 PM,Standard,https://mlbcryptobaseball.com/asset/3669,,,,,8/24/2018 14:27:30,0.66781,#N/A,#N/A,#N/A,#N/A
 1329,Greg Bird,3429,0.25804,1B,Yankees,8/24/2018,2:31:36 PM,Standard,https://mlbcryptobaseball.com/asset/3429,,,,,8/24/2018 14:31:36,0.25804,#N/A,#N/A,#N/A,#N/A
@@ -1378,16 +1378,16 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1377,Clayton Kershaw,317,0.50000,P,Dodgers,8/24/2018,4:33:34 PM,Standard,https://mlbcryptobaseball.com/asset/317,,,,,8/24/2018 16:33:34,0.50000,#N/A,#N/A,#N/A,#N/A
 1378,Tayron Guerrero,3383,0.09077,P,Marlins,8/24/2018,4:40:01 PM,Standard,https://mlbcryptobaseball.com/asset/3383,,,,,8/24/2018 16:40:01,0.09077,#N/A,#N/A,#N/A,#N/A
 1379,Brett Kennedy,3912,0.99978,P,Padres,8/24/2018,4:49:22 PM,Legendary,https://mlbcryptobaseball.com/asset/3912,,,,,8/24/2018 16:49:22,#N/A,#N/A,#N/A,#N/A,0.99978
-1380,Mark Canha,3386,0.08278,CF,A's,8/24/2018,4:52:18 PM,Standard,https://mlbcryptobaseball.com/asset/3386,,,,,8/24/2018 16:52:18,0.08278,#N/A,#N/A,#N/A,#N/A
+1380,Mark Canha,3386,0.08278,CF,Athletics,8/24/2018,4:52:18 PM,Standard,https://mlbcryptobaseball.com/asset/3386,,,,,8/24/2018 16:52:18,0.08278,#N/A,#N/A,#N/A,#N/A
 1381,Scooter Gennett,3361,0.06934,2B,Reds,8/24/2018,4:52:36 PM,Standard,https://mlbcryptobaseball.com/asset/3361,,,,,8/24/2018 16:52:36,0.06934,#N/A,#N/A,#N/A,#N/A
 1382,Dilson Herrera,3271,0.14000,2B,Reds,8/24/2018,4:52:55 PM,Standard,https://mlbcryptobaseball.com/asset/3271,,,,,8/24/2018 16:52:55,0.14000,#N/A,#N/A,#N/A,#N/A
 1383,Enrique Hernandez,3397,0.08982,CF,Dodgers,8/24/2018,4:53:32 PM,Standard,https://mlbcryptobaseball.com/asset/3397,,,,,8/24/2018 16:53:32,0.08982,#N/A,#N/A,#N/A,#N/A
 1384,Logan Morrison,3435,0.11477,1B,Twins,8/24/2018,4:53:52 PM,Bronze,https://mlbcryptobaseball.com/asset/3435,,,,,8/24/2018 16:53:52,#N/A,0.11477,#N/A,#N/A,#N/A
 1385,Justin Bour,3353,0.05189,1B,Marlins,8/24/2018,5:09:46 PM,Standard,https://mlbcryptobaseball.com/asset/3353,,,,,8/24/2018 17:09:46,0.05189,#N/A,#N/A,#N/A,#N/A
-1386,Khris Davis,3476,0.16606,LF,A's,8/24/2018,5:10:02 PM,Standard,https://mlbcryptobaseball.com/asset/3476,,,,,8/24/2018 17:10:02,0.16606,#N/A,#N/A,#N/A,#N/A
+1386,Khris Davis,3476,0.16606,LF,Athletics,8/24/2018,5:10:02 PM,Standard,https://mlbcryptobaseball.com/asset/3476,,,,,8/24/2018 17:10:02,0.16606,#N/A,#N/A,#N/A,#N/A
 1387,Justin Bour,3473,0.17831,1B,Marlins,8/24/2018,5:10:21 PM,Bronze,https://mlbcryptobaseball.com/asset/3473,,,,,8/24/2018 17:10:21,#N/A,0.17831,#N/A,#N/A,#N/A
 1388,Jose Abreu,3392,0.07143,1B,White Sox,8/24/2018,5:10:40 PM,Standard,https://mlbcryptobaseball.com/asset/3392,,,,,8/24/2018 17:10:40,0.07143,#N/A,#N/A,#N/A,#N/A
-1389,Jed Lowrie,3446,0.12477,2B,A's,8/24/2018,5:10:56 PM,Standard,https://mlbcryptobaseball.com/asset/3446,,,,,8/24/2018 17:10:56,0.12477,#N/A,#N/A,#N/A,#N/A
+1389,Jed Lowrie,3446,0.12477,2B,Athletics,8/24/2018,5:10:56 PM,Standard,https://mlbcryptobaseball.com/asset/3446,,,,,8/24/2018 17:10:56,0.12477,#N/A,#N/A,#N/A,#N/A
 1390,Zack Greinke,3403,0.08033,P,Diamondbacks,8/24/2018,5:11:11 PM,Standard,https://mlbcryptobaseball.com/asset/3403,,,,,8/24/2018 17:11:11,0.08033,#N/A,#N/A,#N/A,#N/A
 1391,Amed Rosario,3360,0.05115,SS,Mets,8/24/2018,5:11:37 PM,Standard,https://mlbcryptobaseball.com/asset/3360,,,,,8/24/2018 17:11:37,0.05115,#N/A,#N/A,#N/A,#N/A
 1392,Orlando Arcia,3526,0.21726,SS,Brewers,8/24/2018,5:18:53 PM,Standard,https://mlbcryptobaseball.com/asset/3526,,,,,8/24/2018 17:18:53,0.21726,#N/A,#N/A,#N/A,#N/A
@@ -1402,7 +1402,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1401,Evan Longoria,3455,0.08086,3B,Giants,8/24/2018,5:53:02 PM,Standard,https://mlbcryptobaseball.com/asset/3455,,,,,8/24/2018 17:53:02,0.08086,#N/A,#N/A,#N/A,#N/A
 1402,Chase Anderson,3406,0.03949,P,Brewers,8/24/2018,5:53:20 PM,Standard,https://mlbcryptobaseball.com/asset/3406,,,,,8/24/2018 17:53:20,0.03949,#N/A,#N/A,#N/A,#N/A
 1403,Ryan Braun,3466,0.11271,LF,Brewers,8/24/2018,5:53:39 PM,Standard,https://mlbcryptobaseball.com/asset/3466,,,,,8/24/2018 17:53:39,0.11271,#N/A,#N/A,#N/A,#N/A
-1404,Matt Chapman,4029,0.99976,3B,A's,8/24/2018,7:21:38 PM,Legendary,https://mlbcryptobaseball.com/asset/4029,,,,,8/24/2018 19:21:38,#N/A,#N/A,#N/A,#N/A,0.99976
+1404,Matt Chapman,4029,0.99976,3B,Athletics,8/24/2018,7:21:38 PM,Legendary,https://mlbcryptobaseball.com/asset/4029,,,,,8/24/2018 19:21:38,#N/A,#N/A,#N/A,#N/A,0.99976
 1405,Jason Heyward,3852,0.82253,RF,Cubs,8/24/2018,8:03:31 PM,Silver,https://mlbcryptobaseball.com/asset/3852,,,,,8/24/2018 20:03:31,#N/A,#N/A,0.82253,#N/A,#N/A
 1406,Victor Reyes,3544,0.13741,LF,Tigers,8/24/2018,8:03:51 PM,Bronze,https://mlbcryptobaseball.com/asset/3544,,,,,8/24/2018 20:03:51,#N/A,0.13741,#N/A,#N/A,#N/A
 1407,T.J. McFarland,3493,0.04684,P,Diamondbacks,8/24/2018,8:04:17 PM,Standard,https://mlbcryptobaseball.com/asset/3493,,,,,8/24/2018 20:04:17,0.04684,#N/A,#N/A,#N/A,#N/A
@@ -1423,7 +1423,7 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1422,Enrique Hernandez,3547,0.11567,CF,Dodgers,8/24/2018,8:45:14 PM,Standard,https://mlbcryptobaseball.com/asset/3547,,,,,8/24/2018 20:45:14,0.11567,#N/A,#N/A,#N/A,#N/A
 1423,Gregory Polanco,3627,0.28084,RF,Pirates,8/24/2018,8:48:22 PM,Bronze,https://mlbcryptobaseball.com/asset/3627,,,,,8/24/2018 20:48:22,#N/A,0.28084,#N/A,#N/A,#N/A
 1424,Charlie Blackmon,3614,0.24847,CF,Rockies,8/24/2018,8:48:41 PM,Bronze,https://mlbcryptobaseball.com/asset/3614,,,,,8/24/2018 20:48:41,#N/A,0.24847,#N/A,#N/A,#N/A
-1425,Marcu Semien,3626,0.27890,SS,A's,8/24/2018,8:51:29 PM,Bronze,https://mlbcryptobaseball.com/asset/3626,,,,,8/24/2018 20:51:29,#N/A,0.27890,#N/A,#N/A,#N/A
+1425,Marcu Semien,3626,0.27890,SS,Athletics,8/24/2018,8:51:29 PM,Bronze,https://mlbcryptobaseball.com/asset/3626,,,,,8/24/2018 20:51:29,#N/A,0.27890,#N/A,#N/A,#N/A
 1426,Cory Knebel,3676,0.28650,P,Brewers,8/24/2018,11:09:45 PM,Silver,https://mlbcryptobaseball.com/asset/3676,,,,,8/24/2018 23:09:45,#N/A,#N/A,0.28650,#N/A,#N/A
 1427,Rhys Hoskins,3573,0.07395,LF,Phillies,8/24/2018,11:10:07 PM,Standard,https://mlbcryptobaseball.com/asset/3573,,,,,8/24/2018 23:10:07,0.07395,#N/A,#N/A,#N/A,#N/A
 1428,Adam Ottavino,3554,0.03308,P,Rockies,8/24/2018,11:10:25 PM,Standard,https://mlbcryptobaseball.com/asset/3554,,,,,8/24/2018 23:10:25,0.03308,#N/A,#N/A,#N/A,#N/A
@@ -1436,3 +1436,19 @@ Observation,Player,SerialNumber,ETH,Position,Team,Date,Time,Type,AssetLink,Stanc
 1435,Didi Gregorious,3823,0.67591,SS,Yankees,8/24/2018,11:15:24 PM,Standard,https://mlbcryptobaseball.com/asset/3823,,,,,8/24/2018 23:15:24,0.67591,#N/A,#N/A,#N/A,#N/A
 1436,Eddie Rosario,3585,0.08424,LF,Twins,8/24/2018,11:15:38 PM,Standard,https://mlbcryptobaseball.com/asset/3585,,,,,8/24/2018 23:15:38,0.08424,#N/A,#N/A,#N/A,#N/A
 1437,Joey Votto,3875,0.69701,1B,Reds,8/24/2018,11:19:19 PM,Standard,https://mlbcryptobaseball.com/asset/3875,,,,,8/24/2018 23:19:19,0.69701,#N/A,#N/A,#N/A,#N/A
+1438,Wade Miley,3556,0.02627,P,Brewers,8/24/2018,11:24:47 PM,Standard,https://mlbcryptobaseball.com/asset/3556,,,,,8/24/2018 23:24:47,0.02627,#N/A,#N/A,#N/A,#N/A
+1439,Hansel Roblees,3558,0.02828,P,Angels,8/24/2018,11:25:26 PM,Standard,https://mlbcryptobaseball.com/asset/3558,,,,,8/24/2018 23:25:26,0.02828,#N/A,#N/A,#N/A,#N/A
+1440,Michael Feliz,3567,0.04579,P,Pirates,8/24/2018,11:25:44 PM,Standard,https://mlbcryptobaseball.com/asset/3567,,,,,8/24/2018 23:25:44,0.04579,#N/A,#N/A,#N/A,#N/A
+1441,Felix Hernandez,3561,0.03632,P,Mariners,8/24/2018,11:27:27 PM,Standard,https://mlbcryptobaseball.com/asset/3561,,,,,8/24/2018 23:27:27,0.03632,#N/A,#N/A,#N/A,#N/A
+1442,Chris Bassitt,3566,0.04458,P,Athletics,8/24/2018,11:26:42 PM,Standard,https://mlbcryptobaseball.com/asset/3566,,,,,8/24/2018 23:26:42,0.04458,#N/A,#N/A,#N/A,#N/A
+1443,Ryan Braun,3616,0.14933,LF,Brewers,8/24/2018,11:28:45 PM,Standard,https://mlbcryptobaseball.com/asset/3616,,,,,8/24/2018 23:28:45,0.14933,#N/A,#N/A,#N/A,#N/A
+1444,David Hess,3565,0.03424,P,Orioles,8/24/2018,11:28:59 PM,Standard,https://mlbcryptobaseball.com/asset/3565,,,,,8/24/2018 23:28:59,0.03424,#N/A,#N/A,#N/A,#N/A
+1445,Freddie Freeman,3628,0.16499,1B,Braves,8/24/2018,11:35:31 PM,Standard,https://mlbcryptobaseball.com/asset/3628,,,,,8/24/2018 23:35:31,0.16499,#N/A,#N/A,#N/A,#N/A
+1446,Yasmani Grandal,3607,0.12362,C,Dodgers,8/24/2018,11:35:47 PM,Standard,https://mlbcryptobaseball.com/asset/3607,,,,,8/24/2018 23:35:47,0.12362,#N/A,#N/A,#N/A,#N/A
+1447,Merandy Gonzalez,3563,0.02696,P,Marlins,8/24/2018,11:39:07 PM,Standard,https://mlbcryptobaseball.com/asset/3563,,,,,8/24/2018 23:39:07,0.02696,#N/A,#N/A,#N/A,#N/A
+1448,Sam Gaviglio,3564,0.02633,P,Blue Jays,8/24/2018,11:39:28 PM,Standard,https://mlbcryptobaseball.com/asset/3564,,,,,8/24/2018 23:39:28,0.02633,#N/A,#N/A,#N/A,#N/A
+1449,Mike Minor,3562,0.02569,P,Rangers,8/24/2018,11:39:41 PM,Standard,https://mlbcryptobaseball.com/asset/3562,,,,,8/24/2018 23:39:41,0.02569,#N/A,#N/A,#N/A,#N/A
+1450,Aaron Bummer,3572,0.04565,P,White Sox,8/24/2018,11:43:13 PM,Standard,https://mlbcryptobaseball.com/asset/3572,,,,,8/24/2018 23:43:13,0.04565,#N/A,#N/A,#N/A,#N/A
+1451,Carlos Carrasco,3640,0.18123,P,Indians,8/24/2018,11:43:26 PM,Standard,https://mlbcryptobaseball.com/asset/3640,,,,,8/24/2018 23:43:26,0.18123,#N/A,#N/A,#N/A,#N/A
+1452,Kyle Tucker,3576,0.05567,LF,Astros,8/24/2018,11:43:48 PM,Standard,https://mlbcryptobaseball.com/asset/3576,,,,,8/24/2018 23:43:48,0.05567,#N/A,#N/A,#N/A,#N/A
+1453,Brandon Crawford,3635,0.16840,SS,Giants,8/24/2018,11:45:48 PM,Standard,https://mlbcryptobaseball.com/asset/3635,,,,,8/24/2018 23:45:48,0.16840,#N/A,#N/A,#N/A,#N/A

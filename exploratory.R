@@ -23,6 +23,18 @@ summary(silver$ETH)
 plot(silver$DateTime, silver$ETH)
 plot(silver$Position)
 
+teamAVG <- sales %>% 
+  group_by(Team) %>% 
+  summarize(Mean = mean(ETH, na.rm = TRUE))
+teamAVG
+teamPlot <- ggplot(teamAVG, aes(x = reorder(Team, Mean), y = Mean)) +
+  geom_bar(stat="identity") +
+  theme_tufte() +
+  theme(axis.title.y = element_blank(),
+        axis.ticks.length = unit(0, "lines")) +
+  ylab("Mean Player ETH Cost") +
+  coord_flip()
+teamPlot
   
 hist(sales$ETH, bins = seq(min(0), max(sales$ETH)))
 max(sales$ETH)
