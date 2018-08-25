@@ -25,7 +25,7 @@ plot(silver$Position)
 
 teamAVG <- sales %>% 
   group_by(Team) %>% 
-  summarize(Mean = mean(ETH, na.rm = TRUE))
+  summarize(Mean = mean(ETH, na.rm = TRUE), Median = median(ETH, na.rm = TRUE))
 teamAVG
 teamPlot <- ggplot(teamAVG, aes(x = reorder(Team, Mean), y = Mean)) +
   geom_bar(stat="identity") +
