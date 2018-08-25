@@ -14,14 +14,24 @@ plot(sales$Position)
 plot(sales$DateTime, sales$ETH)
 summary(sales$ETH)
 
+
+
+positionPlot <- ggplot(sales, aes(x = Position)) +
+  geom_bar(stat = "count") +
+  ggtitle(paste0("Sample of Sales, ", length(sales$SerialNumber), " Observations")) +
+  theme_tufte() +
+  coord_flip()
+positionPlot
+
+
+
+
 saleBP <- ggplot(sales, aes(x = Team, y = ETH)) +
   geom_boxplot(fill = "dodger blue") +
   theme_tufte() +
   stat_summary(fun.y=mean, geom="point", shape=3, size=2) +
   coord_flip()
 saleBP 
-
-
 
 saleBPbreakdown <- ggplot(sales, aes(x = Team, y = ETH, fill = Type)) +
   geom_boxplot() +
