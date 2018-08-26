@@ -18,6 +18,7 @@ plot(sales$Position)
 plot(sales$DateTime, sales$ETH)
 summary(sales$ETH)
 
+<<<<<<< HEAD
 # Overview by team
 scatterplot(ETH~Date|Team, boxplots=FALSE, smooth=TRUE, reg.line=FALSE, data=sales)
 plotmeans(ETH ~ Team, main="Heterogeineity across teams", data=sales)
@@ -28,6 +29,12 @@ plotmeans(ETH ~ Team, main="Heterogeineity across teams", data=sales)
 
 positionPlot <- ggplot(sales, aes(x = Position)) +
   geom_bar(stat = "count", fill = "dodger blue") +
+=======
+
+
+positionPlot <- ggplot(sales, aes(x = Position)) +
+  geom_bar(stat = "count") +
+>>>>>>> 601ea97198d49d416f0b8bea5bd829605af6d443
   ggtitle(paste0("Sample of Sales, ", length(sales$SerialNumber), " Observations")) +
   theme_tufte() +
   coord_flip()
